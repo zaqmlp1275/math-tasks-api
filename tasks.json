@@ -1,0 +1,137 @@
+﻿{
+  "tasks": [
+    {
+      "id": 1,
+      "question": "Сколько будет 2 + 2?",
+      "correctAnswer": "4",
+      "explanation": "2 + 2 = 4 по правилам сложения.",
+      "classLevel": 1
+    },
+    {
+      "id": 2,
+      "question": "Что такое 5 × 3?",
+      "correctAnswer": "15",
+      "explanation": "5 умножить на 3 = 15.",
+      "classLevel": 2
+    },
+    {
+      "id": 3,
+      "question": "Сколько углов у треугольника?",
+      "correctAnswer": "3",
+      "explanation": "Треугольник имеет 3 угла.",
+      "classLevel": 1
+    },
+    {
+      "id": 4,
+      "question": "Что больше: 7 или 9?",
+      "correctAnswer": "9",
+      "explanation": "9 больше, чем 7.",
+      "classLevel": 1
+    },
+    {
+      "id": 5,
+      "question": "Сколько будет 10 - 6?",
+      "correctAnswer": "4",
+      "explanation": "10 - 6 = 4.",
+      "classLevel": 2
+    },
+    {
+      "id": 6,
+      "question": "Что такое половина от 8?",
+      "correctAnswer": "4",
+      "explanation": "Половина от 8 = 4.",
+      "classLevel": 2
+    },
+    {
+      "id": 7,
+      "question": "Сколько месяцев в году?",
+      "correctAnswer": "12",
+      "explanation": "В году 12 месяцев.",
+      "classLevel": 3
+    },
+    {
+      "id": 8,
+      "question": "Что такое 25 ÷ 5?",
+      "correctAnswer": "5",
+      "explanation": "25 разделить на 5 = 5.",
+      "classLevel": 3
+    },
+    {
+      "id": 9,
+      "question": "Как найти площадь квадрата со стороной 4?",
+      "correctAnswer": "16",
+      "explanation": "Площадь квадрата = сторона × сторона = 4 × 4 = 16.",
+      "classLevel": 4
+    },
+    {
+      "id": 10,
+      "question": "Что такое 3/4 + 1/4?",
+      "correctAnswer": "1",
+      "explanation": "3/4 + 1/4 = 4/4 = 1.",
+      "classLevel": 4
+    },
+    {
+      "id": 11,
+      "question": "Решите уравнение: x + 5 = 12",
+      "correctAnswer": "7",
+      "explanation": "x = 12 - 5 = 7.",
+      "classLevel": 5
+    },
+    {
+      "id": 12,
+      "question": "Что такое 0.5 в виде дроби?",
+      "correctAnswer": "1/2",
+      "explanation": "0.5 = 1/2.",
+      "classLevel": 5
+    },
+    {
+      "id": 13,
+      "question": "Найдите 20% от 100",
+      "correctAnswer": "20",
+      "explanation": "20% от 100 = 0.20 × 100 = 20.",
+      "classLevel": 6
+    },
+    {
+      "id": 14,
+      "question": "Что такое -3 + 7?",
+      "correctAnswer": "4",
+      "explanation": "-3 + 7 = 4.",
+      "classLevel": 6
+    },
+    {
+      "id": 15,
+      "question": "Решите: 2x - 4 = 10",
+      "correctAnswer": "7",
+      "explanation": "2x = 10 + 4 = 14, x = 7.",
+      "classLevel": 7
+    },
+    {
+      "id": 16,
+      "question": "Что такое √16?",
+      "correctAnswer": "4",
+      "explanation": "Квадратный корень из 16 = 4.",
+      "classLevel": 8
+    },
+    {
+      "id": 17,
+      "question": "Решите квадратное уравнение: x² - 5x + 6 = 0",
+      "correctAnswer": "2, 3",
+      "explanation": "Факторизация: (x - 2)(x - 3) = 0, x = 2 или x = 3.",
+      "classLevel": 9
+    },
+    {
+      "id": 18,
+      "question": "Найдите sin(30°)",
+      "correctAnswer": "0.5",
+      "explanation": "sin(30°) = 0.5.",
+      "classLevel": 10
+    },
+    {
+      "id": 19,
+      "question": "Найдите производную: d/dx(x²)",
+      "correctAnswer": "2x",
+      "explanation": "Производная x² = 2x.",
+      "classLevel": 11
+    }
+  ]
+}
