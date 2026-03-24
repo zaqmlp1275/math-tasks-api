@@ -1,0 +1,704 @@
+{
+  "tasks": [
+    {
+      "id": 301,
+      "question": "Сколько будет 123 + 456?",
+      "correctAnswer": "579",
+      "explanation": "123 + 456 = 579.",
+      "classLevel": 4
+    },
+    {
+      "id": 302,
+      "question": "Сколько будет 789 - 321?",
+      "correctAnswer": "468",
+      "explanation": "789 - 321 = 468.",
+      "classLevel": 4
+    },
+    {
+      "id": 303,
+      "question": "Сколько будет 24 × 5?",
+      "correctAnswer": "120",
+      "explanation": "24 умножить на 5 = 120.",
+      "classLevel": 4
+    },
+    {
+      "id": 304,
+      "question": "Сколько будет 156 ÷ 4?",
+      "correctAnswer": "39",
+      "explanation": "156 разделить на 4 = 39.",
+      "classLevel": 4
+    },
+    {
+      "id": 305,
+      "question": "Сколько будет 17 × 8?",
+      "correctAnswer": "136",
+      "explanation": "17 умножить на 8 = 136.",
+      "classLevel": 4
+    },
+    {
+      "id": 306,
+      "question": "Сколько будет 208 ÷ 8?",
+      "correctAnswer": "26",
+      "explanation": "208 разделить на 8 = 26.",
+      "classLevel": 4
+    },
+    {
+      "id": 307,
+      "question": "Сколько будет 34 × 7?",
+      "correctAnswer": "238",
+      "explanation": "34 умножить на 7 = 238.",
+      "classLevel": 4
+    },
+    {
+      "id": 308,
+      "question": "Сколько будет 252 ÷ 6?",
+      "correctAnswer": "42",
+      "explanation": "252 разделить на 6 = 42.",
+      "classLevel": 4
+    },
+    {
+      "id": 309,
+      "question": "Сколько будет 45 × 6?",
+      "correctAnswer": "270",
+      "explanation": "45 умножить на 6 = 270.",
+      "classLevel": 4
+    },
+    {
+      "id": 310,
+      "question": "Сколько будет 360 ÷ 9?",
+      "correctAnswer": "40",
+      "explanation": "360 разделить на 9 = 40.",
+      "classLevel": 4
+    },
+    {
+      "id": 311,
+      "question": "Сколько будет 56 × 4?",
+      "correctAnswer": "224",
+      "explanation": "56 умножить на 4 = 224.",
+      "classLevel": 4
+    },
+    {
+      "id": 312,
+      "question": "Сколько будет 312 ÷ 12?",
+      "correctAnswer": "26",
+      "explanation": "312 разделить на 12 = 26.",
+      "classLevel": 4
+    },
+    {
+      "id": 313,
+      "question": "Сколько будет 63 × 3?",
+      "correctAnswer": "189",
+      "explanation": "63 умножить на 3 = 189.",
+      "classLevel": 4
+    },
+    {
+      "id": 314,
+      "question": "Сколько будет 294 ÷ 7?",
+      "correctAnswer": "42",
+      "explanation": "294 разделить на 7 = 42.",
+      "classLevel": 4
+    },
+    {
+      "id": 315,
+      "question": "Сколько будет 72 × 5?",
+      "correctAnswer": "360",
+      "explanation": "72 умножить на 5 = 360.",
+      "classLevel": 4
+    },
+    {
+      "id": 316,
+      "question": "Сколько будет 432 ÷ 8?",
+      "correctAnswer": "54",
+      "explanation": "432 разделить на 8 = 54.",
+      "classLevel": 4
+    },
+    {
+      "id": 317,
+      "question": "Сколько будет 81 × 4?",
+      "correctAnswer": "324",
+      "explanation": "81 умножить на 4 = 324.",
+      "classLevel": 4
+    },
+    {
+      "id": 318,
+      "question": "Сколько будет 378 ÷ 9?",
+      "correctAnswer": "42",
+      "explanation": "378 разделить на 9 = 42.",
+      "classLevel": 4
+    },
+    {
+      "id": 319,
+      "question": "Сколько будет 95 × 6?",
+      "correctAnswer": "570",
+      "explanation": "95 умножить на 6 = 570.",
+      "classLevel": 4
+    },
+    {
+      "id": 320,
+      "question": "Сколько будет 648 ÷ 12?",
+      "correctAnswer": "54",
+      "explanation": "648 разделить на 12 = 54.",
+      "classLevel": 4
+    },
+    {
+      "id": 321,
+      "question": "Сколько будет 108 × 3?",
+      "correctAnswer": "324",
+      "explanation": "108 умножить на 3 = 324.",
+      "classLevel": 4
+    },
+    {
+      "id": 322,
+      "question": "Сколько будет 468 ÷ 6?",
+      "correctAnswer": "78",
+      "explanation": "468 разделить на 6 = 78.",
+      "classLevel": 4
+    },
+    {
+      "id": 323,
+      "question": "Сколько будет 112 × 7?",
+      "correctAnswer": "784",
+      "explanation": "112 умножить на 7 = 784.",
+      "classLevel": 4
+    },
+    {
+      "id": 324,
+      "question": "Сколько будет 882 ÷ 9?",
+      "correctAnswer": "98",
+      "explanation": "882 разделить на 9 = 98.",
+      "classLevel": 4
+    },
+    {
+      "id": 325,
+      "question": "Сколько будет 135 × 4?",
+      "correctAnswer": "540",
+      "explanation": "135 умножить на 4 = 540.",
+      "classLevel": 4
+    },
+    {
+      "id": 326,
+      "question": "Сколько будет 624 ÷ 8?",
+      "correctAnswer": "78",
+      "explanation": "624 разделить на 8 = 78.",
+      "classLevel": 4
+    },
+    {
+      "id": 327,
+      "question": "Сколько будет 147 × 5?",
+      "correctAnswer": "735",
+      "explanation": "147 умножить на 5 = 735.",
+      "classLevel": 4
+    },
+    {
+      "id": 328,
+      "question": "Сколько будет 735 ÷ 7?",
+      "correctAnswer": "105",
+      "explanation": "735 разделить на 7 = 105.",
+      "classLevel": 4
+    },
+    {
+      "id": 329,
+      "question": "Сколько будет 168 × 4?",
+      "correctAnswer": "672",
+      "explanation": "168 умножить на 4 = 672.",
+      "classLevel": 4
+    },
+    {
+      "id": 330,
+      "question": "Сколько будет 864 ÷ 12?",
+      "correctAnswer": "72",
+      "explanation": "864 разделить на 12 = 72.",
+      "classLevel": 4
+    },
+    {
+      "id": 331,
+      "question": "Сколько будет 189 × 3?",
+      "correctAnswer": "567",
+      "explanation": "189 умножить на 3 = 567.",
+      "classLevel": 4
+    },
+    {
+      "id": 332,
+      "question": "Сколько будет 672 ÷ 8?",
+      "correctAnswer": "84",
+      "explanation": "672 разделить на 8 = 84.",
+      "classLevel": 4
+    },
+    {
+      "id": 333,
+      "question": "Сколько будет 204 × 5?",
+      "correctAnswer": "1020",
+      "explanation": "204 умножить на 5 = 1020.",
+      "classLevel": 4
+    },
+    {
+      "id": 334,
+      "question": "Сколько будет 1020 ÷ 10?",
+      "correctAnswer": "102",
+      "explanation": "1020 разделить на 10 = 102.",
+      "classLevel": 4
+    },
+    {
+      "id": 335,
+      "question": "Сколько будет 225 × 4?",
+      "correctAnswer": "900",
+      "explanation": "225 умножить на 4 = 900.",
+      "classLevel": 4
+    },
+    {
+      "id": 336,
+      "question": "Сколько будет 900 ÷ 15?",
+      "correctAnswer": "60",
+      "explanation": "900 разделить на 15 = 60.",
+      "classLevel": 4
+    },
+    {
+      "id": 337,
+      "question": "Сколько будет 246 × 3?",
+      "correctAnswer": "738",
+      "explanation": "246 умножить на 3 = 738.",
+      "classLevel": 4
+    },
+    {
+      "id": 338,
+      "question": "Сколько будет 738 ÷ 6?",
+      "correctAnswer": "123",
+      "explanation": "738 разделить на 6 = 123.",
+      "classLevel": 4
+    },
+    {
+      "id": 339,
+      "question": "Сколько будет 267 × 4?",
+      "correctAnswer": "1068",
+      "explanation": "267 умножить на 4 = 1068.",
+      "classLevel": 4
+    },
+    {
+      "id": 340,
+      "question": "Сколько будет 1068 ÷ 12?",
+      "correctAnswer": "89",
+      "explanation": "1068 разделить на 12 = 89.",
+      "classLevel": 4
+    },
+    {
+      "id": 341,
+      "question": "Сколько будет 288 × 5?",
+      "correctAnswer": "1440",
+      "explanation": "288 умножить на 5 = 1440.",
+      "classLevel": 4
+    },
+    {
+      "id": 342,
+      "question": "Сколько будет 1440 ÷ 20?",
+      "correctAnswer": "72",
+      "explanation": "1440 разделить на 20 = 72.",
+      "classLevel": 4
+    },
+    {
+      "id": 343,
+      "question": "Сколько будет 309 × 3?",
+      "correctAnswer": "927",
+      "explanation": "309 умножить на 3 = 927.",
+      "classLevel": 4
+    },
+    {
+      "id": 344,
+      "question": "Сколько будет 927 ÷ 9?",
+      "correctAnswer": "103",
+      "explanation": "927 разделить на 9 = 103.",
+      "classLevel": 4
+    },
+    {
+      "id": 345,
+      "question": "Сколько будет 330 × 4?",
+      "correctAnswer": "1320",
+      "explanation": "330 умножить на 4 = 1320.",
+      "classLevel": 4
+    },
+    {
+      "id": 346,
+      "question": "Сколько будет 1320 ÷ 11?",
+      "correctAnswer": "120",
+      "explanation": "1320 разделить на 11 = 120.",
+      "classLevel": 4
+    },
+    {
+      "id": 347,
+      "question": "Сколько будет 351 × 5?",
+      "correctAnswer": "1755",
+      "explanation": "351 умножить на 5 = 1755.",
+      "classLevel": 4
+    },
+    {
+      "id": 348,
+      "question": "Сколько будет 1755 ÷ 15?",
+      "correctAnswer": "117",
+      "explanation": "1755 разделить на 15 = 117.",
+      "classLevel": 4
+    },
+    {
+      "id": 349,
+      "question": "Сколько будет 372 × 3?",
+      "correctAnswer": "1116",
+      "explanation": "372 умножить на 3 = 1116.",
+      "classLevel": 4
+    },
+    {
+      "id": 350,
+      "question": "Сколько будет 1116 ÷ 12?",
+      "correctAnswer": "93",
+      "explanation": "1116 разделить на 12 = 93.",
+      "classLevel": 4
+    },
+    {
+      "id": 351,
+      "question": "Сколько будет 393 × 4?",
+      "correctAnswer": "1572",
+      "explanation": "393 умножить на 4 = 1572.",
+      "classLevel": 4
+    },
+    {
+      "id": 352,
+      "question": "Сколько будет 1572 ÷ 12?",
+      "correctAnswer": "131",
+      "explanation": "1572 разделить на 12 = 131.",
+      "classLevel": 4
+    },
+    {
+      "id": 353,
+      "question": "Сколько будет 414 × 5?",
+      "correctAnswer": "2070",
+      "explanation": "414 умножить на 5 = 2070.",
+      "classLevel": 4
+    },
+    {
+      "id": 354,
+      "question": "Сколько будет 2070 ÷ 18?",
+      "correctAnswer": "115",
+      "explanation": "2070 разделить на 18 = 115.",
+      "classLevel": 4
+    },
+    {
+      "id": 355,
+      "question": "Сколько будет 435 × 3?",
+      "correctAnswer": "1305",
+      "explanation": "435 умножить на 3 = 1305.",
+      "classLevel": 4
+    },
+    {
+      "id": 356,
+      "question": "Сколько будет 1305 ÷ 15?",
+      "correctAnswer": "87",
+      "explanation": "1305 разделить на 15 = 87.",
+      "classLevel": 4
+    },
+    {
+      "id": 357,
+      "question": "Сколько будет 456 × 4?",
+      "correctAnswer": "1824",
+      "explanation": "456 умножить на 4 = 1824.",
+      "classLevel": 4
+    },
+    {
+      "id": 358,
+      "question": "Сколько будет 1824 ÷ 16?",
+      "correctAnswer": "114",
+      "explanation": "1824 разделить на 16 = 114.",
+      "classLevel": 4
+    },
+    {
+      "id": 359,
+      "question": "Сколько будет 477 × 5?",
+      "correctAnswer": "2385",
+      "explanation": "477 умножить на 5 = 2385.",
+      "classLevel": 4
+    },
+    {
+      "id": 360,
+      "question": "Сколько будет 2385 ÷ 15?",
+      "correctAnswer": "159",
+      "explanation": "2385 разделить на 15 = 159.",
+      "classLevel": 4
+    },
+    {
+      "id": 361,
+      "question": "Сколько будет 498 × 3?",
+      "correctAnswer": "1494",
+      "explanation": "498 умножить на 3 = 1494.",
+      "classLevel": 4
+    },
+    {
+      "id": 362,
+      "question": "Сколько будет 1494 ÷ 18?",
+      "correctAnswer": "83",
+      "explanation": "1494 разделить на 18 = 83.",
+      "classLevel": 4
+    },
+    {
+      "id": 363,
+      "question": "Сколько будет 519 × 4?",
+      "correctAnswer": "2076",
+      "explanation": "519 умножить на 4 = 2076.",
+      "classLevel": 4
+    },
+    {
+      "id": 364,
+      "question": "Сколько будет 2076 ÷ 12?",
+      "correctAnswer": "173",
+      "explanation": "2076 разделить на 12 = 173.",
+      "classLevel": 4
+    },
+    {
+      "id": 365,
+      "question": "Сколько будет 540 × 5?",
+      "correctAnswer": "2700",
+      "explanation": "540 умножить на 5 = 2700.",
+      "classLevel": 4
+    },
+    {
+      "id": 366,
+      "question": "Сколько будет 2700 ÷ 25?",
+      "correctAnswer": "108",
+      "explanation": "2700 разделить на 25 = 108.",
+      "classLevel": 4
+    },
+    {
+      "id": 367,
+      "question": "Сколько будет 561 × 3?",
+      "correctAnswer": "1683",
+      "explanation": "561 умножить на 3 = 1683.",
+      "classLevel": 4
+    },
+    {
+      "id": 368,
+      "question": "Сколько будет 1683 ÷ 11?",
+      "correctAnswer": "153",
+      "explanation": "1683 разделить на 11 = 153.",
+      "classLevel": 4
+    },
+    {
+      "id": 369,
+      "question": "Сколько будет 582 × 4?",
+      "correctAnswer": "2328",
+      "explanation": "582 умножить на 4 = 2328.",
+      "classLevel": 4
+    },
+    {
+      "id": 370,
+      "question": "Сколько будет 2328 ÷ 24?",
+      "correctAnswer": "97",
+      "explanation": "2328 разделить на 24 = 97.",
+      "classLevel": 4
+    },
+    {
+      "id": 371,
+      "question": "Сколько будет 603 × 5?",
+      "correctAnswer": "3015",
+      "explanation": "603 умножить на 5 = 3015.",
+      "classLevel": 4
+    },
+    {
+      "id": 372,
+      "question": "Сколько будет 3015 ÷ 21?",
+      "correctAnswer": "143",
+      "explanation": "3015 разделить на 21 = 143.",
+      "classLevel": 4
+    },
+    {
+      "id": 373,
+      "question": "Сколько будет 624 × 3?",
+      "correctAnswer": "1872",
+      "explanation": "624 умножить на 3 = 1872.",
+      "classLevel": 4
+    },
+    {
+      "id": 374,
+      "question": "Сколько будет 1872 ÷ 16?",
+      "correctAnswer": "117",
+      "explanation": "1872 разделить на 16 = 117.",
+      "classLevel": 4
+    },
+    {
+      "id": 375,
+      "question": "Сколько будет 645 × 4?",
+      "correctAnswer": "2580",
+      "explanation": "645 умножить на 4 = 2580.",
+      "classLevel": 4
+    },
+    {
+      "id": 376,
+      "question": "Сколько будет 2580 ÷ 20?",
+      "correctAnswer": "129",
+      "explanation": "2580 разделить на 20 = 129.",
+      "classLevel": 4
+    },
+    {
+      "id": 377,
+      "question": "Сколько будет 666 × 5?",
+      "correctAnswer": "3330",
+      "explanation": "666 умножить на 5 = 3330.",
+      "classLevel": 4
+    },
+    {
+      "id": 378,
+      "question": "Сколько будет 3330 ÷ 30?",
+      "correctAnswer": "111",
+      "explanation": "3330 разделить на 30 = 111.",
+      "classLevel": 4
+    },
+    {
+      "id": 379,
+      "question": "Сколько будет 687 × 3?",
+      "correctAnswer": "2061",
+      "explanation": "687 умножить на 3 = 2061.",
+      "classLevel": 4
+    },
+    {
+      "id": 380,
+      "question": "Сколько будет 2061 ÷ 23?",
+      "correctAnswer": "89",
+      "explanation": "2061 разделить на 23 = 89.",
+      "classLevel": 4
+    },
+    {
+      "id": 381,
+      "question": "Сколько будет 708 × 4?",
+      "correctAnswer": "2832",
+      "explanation": "708 умножить на 4 = 2832.",
+      "classLevel": 4
+    },
+    {
+      "id": 382,
+      "question": "Сколько будет 2832 ÷ 24?",
+      "correctAnswer": "118",
+      "explanation": "2832 разделить на 24 = 118.",
+      "classLevel": 4
+    },
+    {
+      "id": 383,
+      "question": "Сколько будет 729 × 5?",
+      "correctAnswer": "3645",
+      "explanation": "729 умножить на 5 = 3645.",
+      "classLevel": 4
+    },
+    {
+      "id": 384,
+      "question": "Сколько будет 3645 ÷ 27?",
+      "correctAnswer": "135",
+      "explanation": "3645 разделить на 27 = 135.",
+      "classLevel": 4
+    },
+    {
+      "id": 385,
+      "question": "Сколько будет 750 × 3?",
+      "correctAnswer": "2250",
+      "explanation": "750 умножить на 3 = 2250.",
+      "classLevel": 4
+    },
+    {
+      "id": 386,
+      "question": "Сколько будет 2250 ÷ 25?",
+      "correctAnswer": "90",
+      "explanation": "2250 разделить на 25 = 90.",
+      "classLevel": 4
+    },
+    {
+      "id": 387,
+      "question": "Сколько будет 771 × 4?",
+      "correctAnswer": "3084",
+      "explanation": "771 умножить на 4 = 3084.",
+      "classLevel": 4
+    },
+    {
+      "id": 388,
+      "question": "Сколько будет 3084 ÷ 12?",
+      "correctAnswer": "257",
+      "explanation": "3084 разделить на 12 = 257.",
+      "classLevel": 4
+    },
+    {
+      "id": 389,
+      "question": "Сколько будет 792 × 5?",
+      "correctAnswer": "3960",
+      "explanation": "792 умножить на 5 = 3960.",
+      "classLevel": 4
+    },
+    {
+      "id": 390,
+      "question": "Сколько будет 3960 ÷ 33?",
+      "correctAnswer": "120",
+      "explanation": "3960 разделить на 33 = 120.",
+      "classLevel": 4
+    },
+    {
+      "id": 391,
+      "question": "Сколько будет 813 × 3?",
+      "correctAnswer": "2439",
+      "explanation": "813 умножить на 3 = 2439.",
+      "classLevel": 4
+    },
+    {
+      "id": 392,
+      "question": "Сколько будет 2439 ÷ 21?",
+      "correctAnswer": "116",
+      "explanation": "2439 разделить на 21 = 116.",
+      "classLevel": 4
+    },
+    {
+      "id": 393,
+      "question": "Сколько будет 834 × 4?",
+      "correctAnswer": "3336",
+      "explanation": "834 умножить на 4 = 3336.",
+      "classLevel": 4
+    },
+    {
+      "id": 394,
+      "question": "Сколько будет ÷ 28?",
+      "correctAnswer": "119",
+      "explanation": "3336 разделить на 28 = 119.",
+      "classLevel": 4
+    },
+    {
+      "id": 395,
+      "question": "Сколько будет 855 × 5?",
+      "correctAnswer": "4275",
+      "explanation": "855 умножить на 5 = 4275.",
+      "classLevel": 4
+    },
+    {
+      "id": 396,
+      "question": "Сколько будет 4275 ÷ 25?",
+      "correctAnswer": "171",
+      "explanation": "4275 разделить на 25 = 171.",
+      "classLevel": 4
+    },
+    {
+      "id": 397,
+      "question": "Сколько будет 876 × 3?",
+      "correctAnswer": "2628",
+      "explanation": "876 умножить на 3 = 2628.",
+      "classLevel": 4
+    },
+    {
+      "id": 398,
+      "question": "Сколько будет 2628 ÷ 36?",
+      "correctAnswer": "73",
+      "explanation": "2628 разделить на 36 = 73.",
+      "classLevel": 4
+    },
+    {
+      "id": 399,
+      "question": "Сколько будет 897 × 4?",
+      "correctAnswer": "3588",
+      "explanation": "897 умножить на 4 = 3588.",
+      "classLevel": 4
+    },
+    {
+      "id": 400,
+      "question": "Сколько будет 3588 ÷ 26?",
+      "correctAnswer": "138",
+      "explanation": "3588 разделить на 26 = 138.",
+      "classLevel": 4
+    }
+  ]
+}
