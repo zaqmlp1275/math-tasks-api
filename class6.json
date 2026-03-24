@@ -1,1108 +1,700 @@
-федор достоевский
-i…
-Невидимый
-
-федор достоевский [DRO],  — 18.03.2026 21:52
-да
-можешь помочь
-d… — 18.03.2026 21:52
-ой бляяяяяяяяя
-валяй
-федор достоевский [DRO],  — 18.03.2026 21:53
-в вк
-https://chat.qwen.ai/c/423069ac-af8e-4bca-b45e-7c1c158e8f9d
-Qwen Chat
-Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.
-федор достоевский [DRO],  — 18.03.2026 22:13
-https://github.com/zaqmlp1275/math-tasks-api/blob/main/class1.json
-GitHub
-math-tasks-api/class1.json at main · zaqmlp1275/math-tasks-api
-Contribute to zaqmlp1275/math-tasks-api development by creating an account on GitHub.
-d… — 18.03.2026 22:19
 {
   "tasks": [
     {
-      "id": 1,
-      "question": "Найдите производную функции f(x) = x^3.",
-      "correctAnswer": "3x^2",
-
-message.txt
-29 кб
-d… — 18.03.2026 22:19
-11
-{
-  "tasks": [
-    {
-      "id": 1,
-      "question": "Найдите значение выражения: sin(30°)",
-      "correctAnswer": "0.5",
-
-message.txt
-25 кб
-d… — 18.03.2026 22:19
-10
-{
-  "tasks": [
-    {
-      "id": 1,
-      "question": "Решите уравнение: x² - 5x + 6 = 0",
-      "correctAnswer": "x = 2; x = 3",
-
-message.txt
-30 кб
-d… — 18.03.2026 22:20
-9
-Изображение
-{
-  "tasks": [
-    {
-      "id": 1,
-      "question": "Упростите выражение: √16",
-      "correctAnswer": "4",
-      "explanation": "Арифметический квадратный корень из 16 равен 4, так как 4² = 16.",
-      "classLevel": 8
-    },
-    {
-      "id": 2,
-      "question": "Решите уравнение: x² = 25",
-      "correctAnswer": "±5",
-      "explanation": "Корни уравнения x² = a (где a > 0) равны ±√a. √25 = 5.",
-      "classLevel": 8
-    },
-    {
-      "id": 3,
-      "question": "Вычислите: 2⁻³",
-      "correctAnswer": "0.125",
-      "explanation": "2⁻³ = 1 / 2³ = 1/8 = 0.125.",
-      "classLevel": 8
-    },
-    {
-      "id": 4,
-      "question": "Найдите значение выражения при x=2: 3x - 5",
-      "correctAnswer": "1",
-      "explanation": "Подставляем x=2: 3*2 - 5 = 6 - 5 = 1.",
-      "classLevel": 8
-    },
-    {
-      "id": 5,
-      "question": "Разложите на множители: x² - 9",
-      "correctAnswer": "(x-3)(x+3)",
-      "explanation": "Формула разности квадратов: a² - b² = (a-b)(a+b).",
-      "classLevel": 8
-    },
-    {
-      "id": 6,
-      "question": "Решите неравенство: 2x > 10",
-      "correctAnswer": "x > 5",
-      "explanation": "Делим обе части на положительное число 2, знак не меняется.",
-      "classLevel": 8
-    },
-    {
-      "id": 7,
-      "question": "Найдите дискриминант уравнения: x² + 4x + 4 = 0",
-      "correctAnswer": "0",
-      "explanation": "D = b² - 4ac = 4² - 4*1*4 = 16 - 16 = 0.",
-      "classLevel": 8
-    },
-    {
-      "id": 8,
-      "question": "Чему равен угол между диагоналями квадрата?",
-      "correctAnswer": "90°",
-      "explanation": "Диагонали квадрата перпендикулярны.",
-      "classLevel": 8
-    },
-    {
-      "id": 9,
-      "question": "Упростите дробь: (2x) / (4x)",
-      "correctAnswer": "0.5",
-      "explanation": "Сокращаем на 2x (при x≠0), получаем 1/2 или 0.5.",
-      "classLevel": 8
-    },
-    {
-      "id": 10,
-      "question": "Вычислите: √(81)",
-      "correctAnswer": "9",
-      "explanation": "9² = 81.",
-      "classLevel": 8
-    },
-    {
-      "id": 11,
-      "question": "Решите уравнение: (x-1)(x+2) = 0",
-      "correctAnswer": "1; -2",
-      "explanation": "Произведение равно нулю, когда один из множителей равен нулю.",
-      "classLevel": 8
-    },
-    {
-      "id": 12,
-      "question": "Найдите сумму корней уравнения: x² - 5x + 6 = 0",
-      "correctAnswer": "5",
-      "explanation": "По теореме Виета сумма корней равна -b/a = -(-5)/1 = 5.",
-      "classLevel": 8
-    },
-    {
-      "id": 13,
-      "question": "Является ли число 0.5 рациональным?",
-      "correctAnswer": "Да",
-      "explanation": "Любое конечное десятичное число можно представить в виде дроби (1/2).",
-      "classLevel": 8
-    },
-    {
-      "id": 14,
-      "question": "Найдите площадь прямоугольника со сторонами 5 и 8",
-      "correctAnswer": "40",
-      "explanation": "S = a * b = 5 * 8 = 40.",
-      "classLevel": 8
-    },
-... (осталось: 604 строки)
-
-message.txt
-25 кб
-d… — 18.03.2026 22:23
-8
-{
-  "tasks": [
-    {
-      "id": 1,
-      "question": "Вычислите: -5 + 8.",
-      "correctAnswer": "3",
-      "explanation": "При сложении чисел с разными знаками вычитаем меньшее из большего и ставим знак большего: 8 - 5 = 3.",
-      "classLevel": 7
-    },
-    {
-      "id": 2,
-      "question": "Вычислите: -12 - 4.",
-      "correctAnswer": "-16",
-      "explanation": "При вычитании положительного числа из отрицательного модули складываются, знак минус сохраняется.",
-      "classLevel": 7
-    },
-    {
-      "id": 3,
-      "question": "Вычислите произведение: -3 * (-4).",
-      "correctAnswer": "12",
-      "explanation": "Произведение двух отрицательных чисел положительно.",
-      "classLevel": 7
-    },
-    {
-      "id": 4,
-      "question": "Вычислите: 15 : (-3).",
-      "correctAnswer": "-5",
-      "explanation": "При делении чисел с разными знаками результат отрицательный.",
-      "classLevel": 7
-    },
-    {
-      "id": 5,
-      "question": "Упростите выражение: 3x + 5x.",
-      "correctAnswer": "8x",
-      "explanation": "Складываем коэффициенты при одинаковой буквенной части.",
-      "classLevel": 7
-    },
-    {
-      "id": 6,
-      "question": "Упростите выражение: 7a - 10a.",
-      "correctAnswer": "-3a",
-      "explanation": "7 - 10 = -3.",
-      "classLevel": 7
-    },
-    {
-      "id": 7,
-      "question": "Раскройте скобки: 2 * (x + 3).",
-      "correctAnswer": "2x + 6",
-      "explanation": "Умножаем число перед скобкой на каждое слагаемое внутри скобок.",
-      "classLevel": 7
-    },
-    {
-      "id": 8,
-      "question": "Раскройте скобки: -3 * (y - 2).",
-      "correctAnswer": "-3y + 6",
-      "explanation": "Минус перед скобкой меняет знаки слагаемых внутри на противоположные.",
-      "classLevel": 7
-    },
-    {
-      "id": 9,
-      "question": "Решите уравнение: x + 5 = 12.",
-      "correctAnswer": "7",
-      "explanation": "Переносим 5 в правую часть с противоположным знаком: x = 12 - 5.",
-      "classLevel": 7
-    },
-    {
-      "id": 10,
-      "question": "Решите уравнение: x - 8 = -3.",
-      "correctAnswer": "5",
-      "explanation": "Переносим -8 вправо: x = -3 + 8.",
-      "classLevel": 7
-    },
-    {
-      "id": 11,
-      "question": "Решите уравнение: 2x = 14.",
-      "correctAnswer": "7",
-      "explanation": "Делим обе части уравнения на 2.",
-      "classLevel": 7
-    },
-    {
-      "id": 12,
-      "question": "Решите уравнение: -3x = 15.",
-      "correctAnswer": "-5",
-      "explanation": "Делим 15 на -3.",
-      "classLevel": 7
-    },
-    {
-      "id": 13,
-      "question": "Вычислите значение степени: 2^3.",
-      "correctAnswer": "8",
-      "explanation": "2 * 2 * 2 = 8.",
-      "classLevel": 7
-    },
-    {
-      "id": 14,
-      "question": "Вычислите значение степени: (-2)^4.",
-      "correctAnswer": "16",
-      "explanation": "Отрицательное число в четной степени дает положительный результат: (-2)*(-2)*(-2)*(-2) = 16.",
-      "classLevel": 7
-    },
-... (осталось: 604 строки)
-
-message.txt
-28 кб
-d… — 18.03.2026 22:25
-7
-{
-  "tasks": [
-    {
-      "id": 1,
+      "id": 501,
       "question": "Сократите дробь: 4/8.",
       "correctAnswer": "1/2",
       "explanation": "Числитель и знаменатель делятся на 4.",
       "classLevel": 6
     },
     {
-      "id": 2,
+      "id": 502,
       "question": "Сложите дроби: 1/5 + 2/5.",
       "correctAnswer": "3/5",
       "explanation": "При одинаковых знаменателях складываем только числители.",
       "classLevel": 6
     },
     {
-      "id": 3,
+      "id": 503,
       "question": "Вычтите дроби: 7/9 - 4/9.",
       "correctAnswer": "1/3",
       "explanation": "7/9 - 4/9 = 3/9. Сокращаем на 3, получаем 1/3.",
       "classLevel": 6
     },
     {
-      "id": 4,
+      "id": 504,
       "question": "Найдите общий знаменатель для дробей 1/2 и 1/3.",
       "correctAnswer": "6",
       "explanation": "Наименьшее общее кратное чисел 2 и 3 равно 6.",
       "classLevel": 6
     },
     {
-      "id": 5,
+      "id": 505,
       "question": "Вычислите: 1/2 + 1/3.",
       "correctAnswer": "5/6",
       "explanation": "Приводим к знаменателю 6: 3/6 + 2/6 = 5/6.",
       "classLevel": 6
     },
     {
-      "id": 6,
+      "id": 506,
       "question": "Умножьте дроби: 2/3 * 3/4.",
       "correctAnswer": "1/2",
       "explanation": "2*3 / 3*4 = 6/12. Сокращаем на 6.",
       "classLevel": 6
     },
     {
-      "id": 7,
+      "id": 507,
       "question": "Разделите дроби: 1/2 : 1/4.",
       "correctAnswer": "2",
       "explanation": "Умножаем первую дробь на перевернутую вторую: 1/2 * 4/1 = 4/2 = 2.",
       "classLevel": 6
     },
     {
-      "id": 8,
+      "id": 508,
       "question": "Представьте смешанное число 2 1/3 в виде неправильной дроби.",
       "correctAnswer": "7/3",
       "explanation": "2 * 3 + 1 = 7. Знаменатель остается 3.",
       "classLevel": 6
     },
     {
-      "id": 9,
+      "id": 509,
       "question": "Выделите целую часть из дроби 7/2.",
       "correctAnswer": "3 1/2",
       "explanation": "7 делится на 2 три раза, остаток 1.",
       "classLevel": 6
     },
     {
-      "id": 10,
+      "id": 510,
       "question": "Переведите десятичную дробь 0.5 в обыкновенную.",
       "correctAnswer": "1/2",
       "explanation": "0.5 = 5/10 = 1/2.",
       "classLevel": 6
     },
     {
-      "id": 11,
+      "id": 511,
       "question": "Переведите обыкновенную дробь 1/4 в десятичную.",
       "correctAnswer": "0.25",
       "explanation": "1 делить на 4 равно 0.25.",
       "classLevel": 6
     },
     {
-      "id": 12,
+      "id": 512,
       "question": "Сложите десятичные дроби: 2.5 + 3.4.",
       "correctAnswer": "5.9",
       "explanation": "Складываем поразрядно.",
       "classLevel": 6
     },
     {
-      "id": 13,
+      "id": 513,
       "question": "Вычтите: 5.6 - 2.1.",
       "correctAnswer": "3.5",
       "explanation": "5.6 минус 2.1 равно 3.5.",
       "classLevel": 6
     },
     {
-      "id": 14,
-      "question": "Умножьте: 0.2 * 0.3.",
-      "correctAnswer": "0.06",
-      "explanation": "2 * 3 = 6. В ответе должно быть 2 знака после запятой (1+1).",
-      "classLevel": 6
-    },
-... (осталось: 604 строки)
-
-message.txt
-26 кб
-d… — 18.03.2026 22:31
-6
-федор достоевский
- начал звонок, который продлился час. — 19.03.2026 20:56
-d… — 19.03.2026 22:14
-куда
-d… — 19.03.2026 22:22
-пиздааааааааа
-федор достоевский
- начал звонок, который продлился несколько секунд. — 19.03.2026 22:24
-федор достоевский
- начал звонок, который продлился несколько секунд. — 19.03.2026 22:24
-d…
- начал звонок, который продлился минута. — 19.03.2026 22:30
-d… — 19.03.2026 22:30
-ща секу
-федор достоевский [DRO],  — 19.03.2026 22:30
-мне с собакой идти надо
-d… — 19.03.2026 22:30
-долго?
-федор достоевский [DRO],  — 19.03.2026 22:31
-не оч
-мин 15-20
-d… — 19.03.2026 22:31
-ну давай быстрее тогда
-федор достоевский
- начал звонок, который продлился 29 минут. — 19.03.2026 22:56
-федор достоевский [DRO],  — 19.03.2026 23:04
-Изображение
-d… — 19.03.2026 23:05
-Изображение
-федор достоевский [DRO],  — 19.03.2026 23:22
-Изображение
-﻿
-d…
-d…
- 
-{
-  "tasks": [
-    {
-      "id": 1,
-      "question": "Сократите дробь: 4/8.",
-      "correctAnswer": "1/2",
-      "explanation": "Числитель и знаменатель делятся на 4.",
-      "classLevel": 6
-    },
-    {
-      "id": 2,
-      "question": "Сложите дроби: 1/5 + 2/5.",
-      "correctAnswer": "3/5",
-      "explanation": "При одинаковых знаменателях складываем только числители.",
-      "classLevel": 6
-    },
-    {
-      "id": 3,
-      "question": "Вычтите дроби: 7/9 - 4/9.",
-      "correctAnswer": "1/3",
-      "explanation": "7/9 - 4/9 = 3/9. Сокращаем на 3, получаем 1/3.",
-      "classLevel": 6
-    },
-    {
-      "id": 4,
-      "question": "Найдите общий знаменатель для дробей 1/2 и 1/3.",
-      "correctAnswer": "6",
-      "explanation": "Наименьшее общее кратное чисел 2 и 3 равно 6.",
-      "classLevel": 6
-    },
-    {
-      "id": 5,
-      "question": "Вычислите: 1/2 + 1/3.",
-      "correctAnswer": "5/6",
-      "explanation": "Приводим к знаменателю 6: 3/6 + 2/6 = 5/6.",
-      "classLevel": 6
-    },
-    {
-      "id": 6,
-      "question": "Умножьте дроби: 2/3 * 3/4.",
-      "correctAnswer": "1/2",
-      "explanation": "2*3 / 3*4 = 6/12. Сокращаем на 6.",
-      "classLevel": 6
-    },
-    {
-      "id": 7,
-      "question": "Разделите дроби: 1/2 : 1/4.",
-      "correctAnswer": "2",
-      "explanation": "Умножаем первую дробь на перевернутую вторую: 1/2 * 4/1 = 4/2 = 2.",
-      "classLevel": 6
-    },
-    {
-      "id": 8,
-      "question": "Представьте смешанное число 2 1/3 в виде неправильной дроби.",
-      "correctAnswer": "7/3",
-      "explanation": "2 * 3 + 1 = 7. Знаменатель остается 3.",
-      "classLevel": 6
-    },
-    {
-      "id": 9,
-      "question": "Выделите целую часть из дроби 7/2.",
-      "correctAnswer": "3 1/2",
-      "explanation": "7 делится на 2 три раза, остаток 1.",
-      "classLevel": 6
-    },
-    {
-      "id": 10,
-      "question": "Переведите десятичную дробь 0.5 в обыкновенную.",
-      "correctAnswer": "1/2",
-      "explanation": "0.5 = 5/10 = 1/2.",
-      "classLevel": 6
-    },
-    {
-      "id": 11,
-      "question": "Переведите обыкновенную дробь 1/4 в десятичную.",
-      "correctAnswer": "0.25",
-      "explanation": "1 делить на 4 равно 0.25.",
-      "classLevel": 6
-    },
-    {
-      "id": 12,
-      "question": "Сложите десятичные дроби: 2.5 + 3.4.",
-      "correctAnswer": "5.9",
-      "explanation": "Складываем поразрядно.",
-      "classLevel": 6
-    },
-    {
-      "id": 13,
-      "question": "Вычтите: 5.6 - 2.1.",
-      "correctAnswer": "3.5",
-      "explanation": "5.6 минус 2.1 равно 3.5.",
-      "classLevel": 6
-    },
-    {
-      "id": 14,
+      "id": 514,
       "question": "Умножьте: 0.2 * 0.3.",
       "correctAnswer": "0.06",
       "explanation": "2 * 3 = 6. В ответе должно быть 2 знака после запятой (1+1).",
       "classLevel": 6
     },
     {
-      "id": 15,
+      "id": 515,
       "question": "Разделите: 4.8 : 2.",
       "correctAnswer": "2.4",
       "explanation": "4.8 разделить на 2 равно 2.4.",
       "classLevel": 6
     },
     {
-      "id": 16,
+      "id": 516,
       "question": "Найдите 10% от числа 200.",
       "correctAnswer": "20",
       "explanation": "10% это десятая часть числа. 200 / 10 = 20.",
       "classLevel": 6
     },
     {
-      "id": 17,
+      "id": 517,
       "question": "Найдите 50% от числа 80.",
       "correctAnswer": "40",
       "explanation": "50% это половина числа. 80 / 2 = 40.",
       "classLevel": 6
     },
     {
-      "id": 18,
+      "id": 518,
       "question": "Найдите 25% от числа 100.",
       "correctAnswer": "25",
       "explanation": "25% это четверть числа. 100 / 4 = 25.",
       "classLevel": 6
     },
     {
-      "id": 19,
+      "id": 519,
       "question": "Запишите отношение 2 к 5 в виде дроби.",
       "correctAnswer": "2/5",
       "explanation": "Отношение a к b записывается как a/b.",
       "classLevel": 6
     },
     {
-      "id": 20,
+      "id": 520,
       "question": "Решите пропорцию: x/2 = 3/6.",
       "correctAnswer": "1",
       "explanation": "3/6 = 1/2. Значит x/2 = 1/2, откуда x=1.",
       "classLevel": 6
     },
     {
-      "id": 21,
+      "id": 521,
       "question": "Являются ли числа 2 и 3 взаимно простыми?",
       "correctAnswer": "Да",
       "explanation": "Их наибольший общий делитель равен 1.",
       "classLevel": 6
     },
     {
-      "id": 22,
+      "id": 522,
       "question": "Найдите НОД чисел 12 и 18.",
       "correctAnswer": "6",
       "explanation": "Общие делители: 1, 2, 3, 6. Наибольший — 6.",
       "classLevel": 6
     },
     {
-      "id": 23,
+      "id": 523,
       "question": "Найдите НОК чисел 4 и 6.",
       "correctAnswer": "12",
       "explanation": "Кратные 4: 4, 8, 12... Кратные 6: 6, 12... Наименьшее общее — 12.",
       "classLevel": 6
     },
     {
-      "id": 24,
+      "id": 524,
       "question": "Признак делимости на 2: число должно оканчиваться на...",
       "correctAnswer": "четную цифру",
       "explanation": "Цифры 0, 2, 4, 6, 8.",
       "classLevel": 6
     },
     {
-      "id": 25,
+      "id": 525,
       "question": "Признак делимости на 5: число должно оканчиваться на...",
       "correctAnswer": "0 или 5",
       "explanation": "Правило делимости на 5.",
       "classLevel": 6
     },
     {
-      "id": 26,
+      "id": 526,
       "question": "Признак делимости на 3: сумма цифр числа должна делиться на...",
       "correctAnswer": "3",
       "explanation": "Правило делимости на 3.",
       "classLevel": 6
     },
     {
-      "id": 27,
+      "id": 527,
       "question": "Является ли число 15 простым?",
       "correctAnswer": "Нет",
       "explanation": "Оно делится на 3 и 5.",
       "classLevel": 6
     },
     {
-      "id": 28,
+      "id": 528,
       "question": "Является ли число 7 простым?",
       "correctAnswer": "Да",
       "explanation": "Оно делится только на 1 и само на себя.",
       "classLevel": 6
     },
     {
-      "id": 29,
+      "id": 529,
       "question": "Разложите число 10 на простые множители.",
       "correctAnswer": "2 * 5",
       "explanation": "10 = 2 * 5.",
       "classLevel": 6
     },
     {
-      "id": 30,
+      "id": 530,
       "question": "Вычислите: -5 + 3.",
       "correctAnswer": "-2",
       "explanation": "Движемся по числовой прямой от -5 вправо на 3 шага.",
       "classLevel": 6
     },
     {
-      "id": 31,
+      "id": 531,
       "question": "Вычислите: -4 - 2.",
       "correctAnswer": "-6",
       "explanation": "Отрицательное число уменьшаем еще на 2.",
       "classLevel": 6
     },
     {
-      "id": 32,
+      "id": 532,
       "question": "Вычислите: -3 * (-2).",
       "correctAnswer": "6",
       "explanation": "Минус на минус дает плюс.",
       "classLevel": 6
     },
     {
-      "id": 33,
+      "id": 533,
       "question": "Вычислите: 10 : (-2).",
       "correctAnswer": "-5",
       "explanation": "Плюс на минус дает минус.",
       "classLevel": 6
     },
     {
-      "id": 34,
+      "id": 534,
       "question": "Найдите модуль числа |-7|.",
       "correctAnswer": "7",
       "explanation": "Расстояние от нуля до -7 равно 7.",
       "classLevel": 6
     },
     {
-      "id": 35,
+      "id": 535,
       "question": "Сравните числа: -5 и -10.",
       "correctAnswer": "-5 > -10",
       "explanation": "Из двух отрицательных чисел больше то, которое ближе к нулю (меньше по модулю).",
       "classLevel": 6
     },
     {
-      "id": 36,
+      "id": 536,
       "question": "Какое число противоположно числу 5?",
       "correctAnswer": "-5",
       "explanation": "Противоположные числа имеют разные знаки, но равны по модулю.",
       "classLevel": 6
     },
     {
-      "id": 37,
+      "id": 537,
       "question": "Координата точки А равна -3. Чему равна координата точки, симметричной ей относительно начала отсчета?",
       "correctAnswer": "3",
       "explanation": "Симметричная точка имеет противоположную координату.",
       "classLevel": 6
     },
     {
-      "id": 38,
+      "id": 538,
       "question": "Вычислите: | -4 | + | 4 |.",
       "correctAnswer": "8",
       "explanation": "4 + 4 = 8.",
       "classLevel": 6
     },
     {
-      "id": 39,
+      "id": 539,
       "question": "Решите уравнение: |x| = 5.",
       "correctAnswer": "5 и -5",
       "explanation": "Модуль числа равен 5, значит число может быть 5 или -5.",
       "classLevel": 6
     },
     {
-      "id": 40,
+      "id": 540,
       "question": "Упростите выражение: 3x - 5x.",
       "correctAnswer": "-2x",
       "explanation": "3 - 5 = -2.",
       "classLevel": 6
     },
     {
-      "id": 41,
+      "id": 541,
       "question": "Раскройте скобки: -(a - b).",
       "correctAnswer": "-a + b",
       "explanation": "Минус перед скобкой меняет знаки слагаемых внутри.",
       "classLevel": 6
     },
     {
-      "id": 42,
+      "id": 542,
       "question": "Раскройте скобки: 2 * (x + 3).",
       "correctAnswer": "2x + 6",
       "explanation": "Умножаем 2 на каждое слагаемое в скобках.",
       "classLevel": 6
     },
     {
-      "id": 43,
+      "id": 543,
       "question": "Приведите подобные слагаемые: 4a + 2b - a.",
       "correctAnswer": "3a + 2b",
       "explanation": "4a - a = 3a. 2b остается без изменений.",
       "classLevel": 6
     },
     {
-      "id": 44,
+      "id": 544,
       "question": "Решите уравнение: x + 5 = 2.",
       "correctAnswer": "-3",
       "explanation": "x = 2 - 5 = -3.",
       "classLevel": 6
     },
     {
-      "id": 45,
+      "id": 545,
       "question": "Решите уравнение: -2x = 8.",
       "correctAnswer": "-4",
       "explanation": "x = 8 : (-2) = -4.",
       "classLevel": 6
     },
     {
-      "id": 46,
+      "id": 546,
       "question": "Масштаб карты 1:100000. Чему равно расстояние на местности, если на карте 2 см?",
       "correctAnswer": "2 км",
       "explanation": "2 см * 100000 = 200000 см = 2000 м = 2 км.",
       "classLevel": 6
     },
     {
-      "id": 47,
+      "id": 547,
       "question": "Длина отрезка на плане 5 см, масштаб 1:100. Какова реальная длина?",
       "correctAnswer": "500 см",
       "explanation": "5 * 100 = 500 см (или 5 м).",
       "classLevel": 6
     },
     {
-      "id": 48,
+      "id": 548,
       "question": "На координатной плоскости точка (2, 3) находится в какой четверти?",
       "correctAnswer": "I (первой)",
       "explanation": "Обе координаты положительные.",
       "classLevel": 6
     },
     {
-      "id": 49,
+      "id": 549,
       "question": "На координатной плоскости точка (-2, 3) находится в какой четверти?",
       "correctAnswer": "II (второй)",
       "explanation": "X отрицательный, Y положительный.",
       "classLevel": 6
     },
     {
-      "id": 50,
+      "id": 550,
       "question": "На координатной плоскости точка (-2, -3) находится в какой четверти?",
       "correctAnswer": "III (третьей)",
       "explanation": "Обе координаты отрицательные.",
       "classLevel": 6
     },
     {
-      "id": 51,
+      "id": 551,
       "question": "На координатной плоскости точка (2, -3) находится в какой четверти?",
       "correctAnswer": "IV (четвертой)",
       "explanation": "X положительный, Y отрицательный.",
       "classLevel": 6
     },
     {
-      "id": 52,
+      "id": 552,
       "question": "Вычислите: 1/2 от 10.",
       "correctAnswer": "5",
       "explanation": "10 умножить на 1/2 равно 5.",
       "classLevel": 6
     },
     {
-      "id": 53,
+      "id": 553,
       "question": "Вычислите: 2/3 от 9.",
       "correctAnswer": "6",
       "explanation": "9 : 3 * 2 = 6.",
       "classLevel": 6
     },
     {
-      "id": 54,
+      "id": 554,
       "question": "Цена товара 100 руб. Она выросла на 10%. Новая цена?",
       "correctAnswer": "110",
       "explanation": "10% от 100 это 10. 100 + 10 = 110.",
       "classLevel": 6
     },
     {
-      "id": 55,
+      "id": 555,
       "question": "Цена товара 200 руб. Она упала на 25%. Новая цена?",
       "correctAnswer": "150",
       "explanation": "25% от 200 это 50. 200 - 50 = 150.",
       "classLevel": 6
     },
     {
-      "id": 56,
+      "id": 556,
       "question": "Скорость велосипедиста 15 км/ч. Какое расстояние он проедет за 2 часа?",
       "correctAnswer": "30 км",
       "explanation": "S = v * t. 15 * 2 = 30.",
       "classLevel": 6
     },
     {
-      "id": 57,
+      "id": 557,
       "question": "Автомобиль проехал 120 км за 2 часа. Какова его средняя скорость?",
       "correctAnswer": "60 км/ч",
       "explanation": "v = S / t. 120 / 2 = 60.",
       "classLevel": 6
     },
     {
-      "id": 58,
+      "id": 558,
       "question": "За 3 кг яблок заплатили 150 руб. Сколько стоит 1 кг?",
       "correctAnswer": "50 руб",
       "explanation": "150 / 3 = 50.",
       "classLevel": 6
     },
     {
-      "id": 59,
+      "id": 559,
       "question": "Прямоугольник имеет стороны 3 см и 4 см. Найдите площадь.",
       "correctAnswer": "12 кв.см",
       "explanation": "S = a * b. 3 * 4 = 12.",
       "classLevel": 6
     },
     {
-      "id": 60,
+      "id": 560,
       "question": "Квадрат со стороной 5 см. Найдите периметр.",
       "correctAnswer": "20 см",
       "explanation": "P = 4 * a. 4 * 5 = 20.",
       "classLevel": 6
     },
     {
-      "id": 61,
+      "id": 561,
       "question": "Круг радиусом 1. Чему равна длина окружности (примерно)?",
       "correctAnswer": "6.28",
       "explanation": "L = 2 * pi * r. 2 * 3.14 * 1 = 6.28.",
       "classLevel": 6
     },
     {
-      "id": 62,
+      "id": 562,
       "question": "Круг радиусом 1. Чему равна площадь круга (примерно)?",
       "correctAnswer": "3.14",
       "explanation": "S = pi * r^2. 3.14 * 1^2 = 3.14.",
       "classLevel": 6
     },
     {
-      "id": 63,
+      "id": 563,
       "question": "Сумма углов треугольника равна...",
       "correctAnswer": "180 градусов",
       "explanation": "Геометрическое свойство.",
       "classLevel": 6
     },
     {
-      "id": 64,
+      "id": 564,
       "question": "Сколько граней у куба?",
       "correctAnswer": "6",
       "explanation": "У куба 6 квадратных граней.",
       "classLevel": 6
     },
     {
-      "id": 65,
+      "id": 565,
       "question": "Сколько вершин у тетраэдра (треугольной пирамиды)?",
       "correctAnswer": "4",
       "explanation": "У тетраэдра 4 вершины.",
       "classLevel": 6
     },
     {
-      "id": 66,
+      "id": 566,
       "question": "Вычислите: 0.1 * 0.1.",
       "correctAnswer": "0.01",
       "explanation": "1 * 1 = 1. Два знака после запятой.",
       "classLevel": 6
     },
     {
-      "id": 67,
+      "id": 567,
       "question": "Вычислите: 1.5 + 2.5.",
       "correctAnswer": "4",
       "explanation": "1.5 + 2.5 = 4.0.",
       "classLevel": 6
     },
     {
-      "id": 68,
+      "id": 568,
       "question": "Округлите число 3.14159 до сотых.",
       "correctAnswer": "3.14",
       "explanation": "Третья цифра после запятой (1) меньше 5, поэтому округляем вниз.",
       "classLevel": 6
     },
     {
-      "id": 69,
+      "id": 569,
       "question": "Округлите число 2.78 до десятых.",
       "correctAnswer": "2.8",
       "explanation": "Вторая цифра (8) больше 5, округляем вверх.",
       "classLevel": 6
     },
     {
-      "id": 70,
+      "id": 570,
       "question": "Запишите число 5/100 в виде десятичной дроби.",
       "correctAnswer": "0.05",
       "explanation": "5 сотых.",
       "classLevel": 6
     },
     {
-      "id": 71,
+      "id": 571,
       "question": "Какое число больше: 0.5 или 0.49?",
       "correctAnswer": "0.5",
       "explanation": "0.50 больше чем 0.49.",
       "classLevel": 6
     },
     {
-      "id": 72,
+      "id": 572,
       "question": "Решите пропорцию: 2/5 = x/10.",
       "correctAnswer": "4",
       "explanation": "x = (2 * 10) / 5 = 20 / 5 = 4.",
       "classLevel": 6
     },
     {
-      "id": 73,
+      "id": 573,
       "question": "Прямая пропорциональность задана формулой y = kx. Если x=2, y=6, чему равен k?",
       "correctAnswer": "3",
       "explanation": "k = y / x = 6 / 2 = 3.",
       "classLevel": 6
     },
     {
-      "id": 74,
+      "id": 574,
       "question": "Обратная пропорциональность: чем больше одна величина, тем ... другая.",
       "correctAnswer": "меньше",
       "explanation": "Определение обратной пропорциональности.",
       "classLevel": 6
     },
     {
-      "id": 75,
+      "id": 575,
       "question": "Найдите значение выражения: 2^3.",
       "correctAnswer": "8",
       "explanation": "2 * 2 * 2 = 8.",
       "classLevel": 6
     },
     {
-      "id": 76,
+      "id": 576,
       "question": "Найдите значение выражения: 3^2.",
       "correctAnswer": "9",
       "explanation": "3 * 3 = 9.",
       "classLevel": 6
     },
     {
-      "id": 77,
+      "id": 577,
       "question": "Чему равен квадрат числа -4?",
       "correctAnswer": "16",
       "explanation": "(-4) * (-4) = 16.",
       "classLevel": 6
     },
     {
-      "id": 78,
+      "id": 578,
       "question": "Чему равен куб числа -2?",
       "correctAnswer": "-8",
       "explanation": "(-2) * (-2) * (-2) = -8.",
       "classLevel": 6
     },
     {
-      "id": 79,
+      "id": 579,
       "question": "Вычислите: -10 + 10.",
       "correctAnswer": "0",
       "explanation": "Сумма противоположных чисел равна нулю.",
       "classLevel": 6
     },
     {
-      "id": 80,
+      "id": 580,
       "question": "Вычислите: 0 * (-5).",
       "correctAnswer": "0",
       "explanation": "При умножении любого числа на ноль получается ноль.",
       "classLevel": 6
     },
     {
-      "id": 81,
+      "id": 581,
       "question": "Можно ли делить на ноль?",
       "correctAnswer": "Нет",
       "explanation": "Деление на ноль не определено.",
       "classLevel": 6
     },
     {
-      "id": 82,
+      "id": 582,
       "question": "Найдите число, обратное числу 5.",
       "correctAnswer": "1/5",
       "explanation": "Произведение взаимно обратных чисел равно 1.",
       "classLevel": 6
     },
     {
-      "id": 83,
+      "id": 583,
       "question": "Найдите число, обратное дроби 2/3.",
       "correctAnswer": "3/2",
       "explanation": "Дробь переворачивается.",
       "classLevel": 6
     },
     {
-      "id": 84,
+      "id": 584,
       "question": "Упростите отношение 10 : 20.",
       "correctAnswer": "1 : 2",
       "explanation": "Делим оба числа на 10.",
       "classLevel": 6
     },
     {
-      "id": 85,
+      "id": 585,
       "question": "Сплав содержит 10% меди. Сколько меди в 200 г сплава?",
       "correctAnswer": "20 г",
       "explanation": "10% от 200 = 20.",
       "classLevel": 6
     },
     {
-      "id": 86,
+      "id": 586,
       "question": "В классе 25 учеников. 20% отсутствуют. Сколько отсутствует?",
       "correctAnswer": "5",
       "explanation": "20% от 25 = 25 * 0.2 = 5.",
       "classLevel": 6
     },
     {
-      "id": 87,
+      "id": 587,
       "question": "Найдите длину отрезка с концами в точках -2 и 3 на координатной прямой.",
       "correctAnswer": "5",
       "explanation": "Расстояние = |3 - (-2)| = |5| = 5.",
       "classLevel": 6
     },
     {
-      "id": 88,
+      "id": 588,
       "question": "Середина отрезка с концами 0 и 10.",
       "correctAnswer": "5",
       "explanation": "(0 + 10) / 2 = 5.",
       "classLevel": 6
     },
     {
-      "id": 89,
+      "id": 589,
       "question": "Вычислите: 1/2 + 0.5.",
       "correctAnswer": "1",
       "explanation": "0.5 это то же самое, что 1/2. 1/2 + 1/2 = 1.",
       "classLevel": 6
     },
     {
-      "id": 90,
+      "id": 590,
       "question": "Вычислите: 3/4 * 4/3.",
       "correctAnswer": "1",
       "explanation": "Произведение взаимно обратных дробей равно 1.",
       "classLevel": 6
     },
     {
-      "id": 91,
+      "id": 591,
       "question": "Какое число при умножении на -1 дает 7?",
       "correctAnswer": "-7",
       "explanation": "-7 * (-1) = 7.",
       "classLevel": 6
     },
     {
-      "id": 92,
+      "id": 592,
       "question": "Решите уравнение: 3x = 0.",
       "correctAnswer": "0",
       "explanation": "Единственное решение: x=0.",
       "classLevel": 6
     },
     {
-      "id": 93,
+      "id": 593,
       "question": "Сколько простых чисел среди первых десяти натуральных чисел (1-10)?",
       "correctAnswer": "4",
       "explanation": "Это 2, 3, 5, 7. (1 не является простым).",
       "classLevel": 6
     },
     {
-      "id": 94,
+      "id": 594,
       "question": "Наименьшее простое число.",
       "correctAnswer": "2",
       "explanation": "2 — единственное четное простое число.",
       "classLevel": 6
     },
     {
-      "id": 95,
+      "id": 595,
       "question": "Наибольшее двузначное число, кратное 5.",
       "correctAnswer": "95",
       "explanation": "95 делится на 5, а 100 уже трехзначное.",
       "classLevel": 6
     },
     {
-      "id": 96,
+      "id": 596,
       "question": "Вычислите: -(-(-5)).",
       "correctAnswer": "-5",
       "explanation": "Три минуса дают минус.",
       "classLevel": 6
     },
     {
-      "id": 97,
+      "id": 597,
       "question": "Верно ли, что любое целое число является рациональным?",
       "correctAnswer": "Да",
       "explanation": "Целое число можно представить в виде дроби со знаменателем 1.",
       "classLevel": 6
     },
     {
-      "id": 98,
+      "id": 598,
       "question": "Чему равен периметр прямоугольника со сторонами a и b?",
       "correctAnswer": "2*(a+b)",
       "explanation": "Формула периметра прямоугольника.",
       "classLevel": 6
     },
     {
-      "id": 99,
+      "id": 599,
       "question": "Чему равна площадь квадрата со стороной a?",
       "correctAnswer": "a^2",
       "explanation": "Формула площади квадрата.",
       "classLevel": 6
     },
     {
-      "id": 100,
+      "id": 600,
       "question": "Вычислите: 100 - 99.",
       "correctAnswer": "1",
       "explanation": "Простое вычитание.",
@@ -1110,5 +702,3 @@ d…
     }
   ]
 }
-message.txt
-26 кб
