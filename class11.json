@@ -1,1 +1,704 @@
-
+{
+  "tasks": [
+    {
+      "id": 1,
+      "question": "Найдите производную функции f(x) = x^3.",
+      "correctAnswer": "3x^2",
+      "explanation": "По правилу дифференцирования степенной функции (x^n)' = n*x^(n-1).",
+      "classLevel": 11
+    },
+    {
+      "id": 2,
+      "question": "Вычислите значение производной функции f(x) = 5x в точке x = 2.",
+      "correctAnswer": "5",
+      "explanation": "Производная константы, умноженной на x, равна самой константе: (5x)' = 5.",
+      "classLevel": 11
+    },
+    {
+      "id": 3,
+      "question": "Найдите производную функции y = sin(x).",
+      "correctAnswer": "cos(x)",
+      "explanation": "Это табличная производная тригонометрической функции.",
+      "classLevel": 11
+    },
+    {
+      "id": 4,
+      "question": "Найдите производную функции y = cos(x).",
+      "correctAnswer": "-sin(x)",
+      "explanation": "Это табличная производная, не забудьте знак минус.",
+      "classLevel": 11
+    },
+    {
+      "id": 5,
+      "question": "Вычислите производную функции f(x) = x^2 + 3x.",
+      "correctAnswer": "2x + 3",
+      "explanation": "Применяем правило суммы производных: (x^2)' + (3x)' = 2x + 3.",
+      "classLevel": 11
+    },
+    {
+      "id": 6,
+      "question": "Найдите производную функции y = e^x.",
+      "correctAnswer": "e^x",
+      "explanation": "Производная экспоненты равна самой экспоненте.",
+      "classLevel": 11
+    },
+    {
+      "id": 7,
+      "question": "Найдите производную функции y = ln(x).",
+      "correctAnswer": "1/x",
+      "explanation": "Производная натурального логарифма равна 1/x.",
+      "classLevel": 11
+    },
+    {
+      "id": 8,
+      "question": "Вычислите производную функции f(x) = 4.",
+      "correctAnswer": "0",
+      "explanation": "Производная от любого числа (константы) равна нулю.",
+      "classLevel": 11
+    },
+    {
+      "id": 9,
+      "question": "Найдите производную функции y = tg(x).",
+      "correctAnswer": "1/cos^2(x)",
+      "explanation": "Табличная производная тангенса.",
+      "classLevel": 11
+    },
+    {
+      "id": 10,
+      "question": "Найдите производную функции f(x) = x^(-2).",
+      "correctAnswer": "-2x^(-3)",
+      "explanation": "Используем формулу (x^n)' = n*x^(n-1), где n = -2.",
+      "classLevel": 11
+    },
+    {
+      "id": 11,
+      "question": "Найдите угловой коэффициент касательной к графику y = x^2 в точке x = 1.",
+      "correctAnswer": "2",
+      "explanation": "Угловой коэффициент равен значению производной в точке: y' = 2x, при x=1 ответ 2.",
+      "classLevel": 11
+    },
+    {
+      "id": 12,
+      "question": "Найдите точку максимума функции y = -x^2 + 4x.",
+      "correctAnswer": "2",
+      "explanation": "Находим производную y' = -2x + 4. Приравниваем к 0: -2x + 4 = 0 => x = 2. Это вершина параболы.",
+      "classLevel": 11
+    },
+    {
+      "id": 13,
+      "question": "Найдите первообразную функции f(x) = 2x.",
+      "correctAnswer": "x^2 + C",
+      "explanation": "Интеграл от 2x равен x^2. Не забываем константу C.",
+      "classLevel": 11
+    },
+    {
+      "id": 14,
+      "question": "Вычислите определенный интеграл от 0 до 1 функции f(x) = 2x.",
+      "correctAnswer": "1",
+      "explanation": "Первообразная x^2. Подставляем пределы: 1^2 - 0^2 = 1.",
+      "classLevel": 11
+    },
+    {
+      "id": 15,
+      "question": "Найдите первообразную функции f(x) = cos(x).",
+      "correctAnswer": "sin(x) + C",
+      "explanation": "Производная sin(x) равна cos(x), значит первообразная cos(x) — это sin(x).",
+      "classLevel": 11
+    },
+    {
+      "id": 16,
+      "question": "Вычислите интеграл от 0 до pi функции sin(x).",
+      "correctAnswer": "2",
+      "explanation": "Первообразная -cos(x). -cos(pi) - (-cos(0)) = -(-1) - (-1) = 1 + 1 = 2.",
+      "classLevel": 11
+    },
+    {
+      "id": 17,
+      "question": "Найдите область определения функции y = sqrt(x - 4).",
+      "correctAnswer": "[4; +inf)",
+      "explanation": "Подкоренное выражение должно быть неотрицательным: x - 4 >= 0 => x >= 4.",
+      "classLevel": 11
+    },
+    {
+      "id": 18,
+      "question": "Решите уравнение sin(x) = 1.",
+      "correctAnswer": "pi/2 + 2pi*n",
+      "explanation": "Синус равен 1 в точке pi/2 с периодом 2pi.",
+      "classLevel": 11
+    },
+    {
+      "id": 19,
+      "question": "Решите уравнение cos(x) = 0.",
+      "correctAnswer": "pi/2 + pi*n",
+      "explanation": "Косинус равен 0 в точках pi/2, 3pi/2 и т.д., что записывается как pi/2 + pi*n.",
+      "classLevel": 11
+    },
+    {
+      "id": 20,
+      "question": "Вычислите значение tg(pi/4).",
+      "correctAnswer": "1",
+      "explanation": "Тангенс 45 градусов равен 1.",
+      "classLevel": 11
+    },
+    {
+      "id": 21,
+      "question": "Решите уравнение 2^x = 8.",
+      "correctAnswer": "3",
+      "explanation": "8 можно представить как 2^3. Следовательно, x = 3.",
+      "classLevel": 11
+    },
+    {
+      "id": 22,
+      "question": "Решите уравнение log_2(x) = 3.",
+      "correctAnswer": "8",
+      "explanation": "По определению логарифма: x = 2^3 = 8.",
+      "classLevel": 11
+    },
+    {
+      "id": 23,
+      "question": "Вычислите log_3(81).",
+      "correctAnswer": "4",
+      "explanation": "В какую степень нужно возвести 3, чтобы получить 81? 3^4 = 81.",
+      "classLevel": 11
+    },
+    {
+      "id": 24,
+      "question": "Упростите выражение: (a^2 * a^3) / a^4.",
+      "correctAnswer": "a",
+      "explanation": "Складываем степени в числителе (2+3=5), вычитаем степень знаменателя (5-4=1).",
+      "classLevel": 11
+    },
+    {
+      "id": 25,
+      "question": "Найдите корень уравнения: 3^(x+1) = 27.",
+      "correctAnswer": "2",
+      "explanation": "27 = 3^3. x + 1 = 3 => x = 2.",
+      "classLevel": 11
+    },
+    {
+      "id": 26,
+      "question": "Вычислите объем куба с ребром 3 см.",
+      "correctAnswer": "27",
+      "explanation": "Объем куба V = a^3. 3^3 = 27.",
+      "classLevel": 11
+    },
+    {
+      "id": 27,
+      "question": "Найдите площадь поверхности сферы радиусом 2.",
+      "correctAnswer": "16pi",
+      "explanation": "Формула площади сферы S = 4 * pi * R^2. 4 * pi * 2^2 = 16pi.",
+      "classLevel": 11
+    },
+    {
+      "id": 28,
+      "question": "Найдите объем цилиндра с радиусом основания 2 и высотой 5.",
+      "correctAnswer": "20pi",
+      "explanation": "V = pi * R^2 * h. pi * 2^2 * 5 = 20pi.",
+      "classLevel": 11
+    },
+    {
+      "id": 29,
+      "question": "В коробке 5 красных и 5 синих шаров. Какова вероятность вытащить красный?",
+      "correctAnswer": "0.5",
+      "explanation": "Всего 10 шаров, красных 5. Вероятность 5/10 = 0.5.",
+      "classLevel": 11
+    },
+    {
+      "id": 30,
+      "question": "Найдите производную функции y = x * sin(x).",
+      "correctAnswer": "sin(x) + x*cos(x)",
+      "explanation": "Используем правило произведения: (uv)' = u'v + uv'.",
+      "classLevel": 11
+    },
+    {
+      "id": 31,
+      "question": "Найдите производную сложной функции y = (2x + 1)^3.",
+      "correctAnswer": "6(2x + 1)^2",
+      "explanation": "Сначала производная внешней функции 3(...)^2, затем внутренней (2). 3 * 2 = 6.",
+      "classLevel": 11
+    },
+    {
+      "id": 32,
+      "question": "Решите неравенство: x^2 - 4 < 0.",
+      "correctAnswer": "(-2; 2)",
+      "explanation": "Корни уравнения x^2 - 4 = 0 это -2 и 2. Парабола ветвями вверх, меньше нуля между корнями.",
+      "classLevel": 11
+    },
+    {
+      "id": 33,
+      "question": "Найдите значение выражения: sin^2(x) + cos^2(x).",
+      "correctAnswer": "1",
+      "explanation": "Это основное тригонометрическое тождество.",
+      "classLevel": 11
+    },
+    {
+      "id": 34,
+      "question": "Вычислите производную функции y = 1/x.",
+      "correctAnswer": "-1/x^2",
+      "explanation": "Представим как x^(-1). Производная: -1 * x^(-2) = -1/x^2.",
+      "classLevel": 11
+    },
+    {
+      "id": 35,
+      "question": "Найдите промежутки возрастания функции, если f'(x) = x - 1.",
+      "correctAnswer": "[1; +inf)",
+      "explanation": "Функция возрастает, когда производная положительна: x - 1 > 0 => x > 1.",
+      "classLevel": 11
+    },
+    {
+      "id": 36,
+      "question": "Найдите диагональ куба с ребром 1.",
+      "correctAnswer": "sqrt(3)",
+      "explanation": "Диагональ куба d = a * sqrt(3).",
+      "classLevel": 11
+    },
+    {
+      "id": 37,
+      "question": "Решите уравнение: 10^x = 1000.",
+      "correctAnswer": "3",
+      "explanation": "1000 = 10^3, значит x = 3.",
+      "classLevel": 11
+    },
+    {
+      "id": 38,
+      "question": "Найдите значение логарифма: lg(100).",
+      "correctAnswer": "2",
+      "explanation": "Десятичный логарифм от 100 (10^2) равен 2.",
+      "classLevel": 11
+    },
+    {
+      "id": 39,
+      "question": "Найдите объем конуса с радиусом 3 и высотой 4.",
+      "correctAnswer": "12pi",
+      "explanation": "V = 1/3 * pi * R^2 * h. 1/3 * pi * 9 * 4 = 12pi.",
+      "classLevel": 11
+    },
+    {
+      "id": 40,
+      "question": "Найдите производную функции y = e^(2x).",
+      "correctAnswer": "2e^(2x)",
+      "explanation": "Производная экспоненты умножается на производную показателя степени (2).",
+      "classLevel": 11
+    },
+    {
+      "id": 41,
+      "question": "Вычислите предел: lim (x->0) (sin(x)/x).",
+      "correctAnswer": "1",
+      "explanation": "Это первый замечательный предел.",
+      "classLevel": 11
+    },
+    {
+      "id": 42,
+      "question": "Найдите область значений функции y = x^2.",
+      "correctAnswer": "[0; +inf)",
+      "explanation": "Квадрат любого действительного числа неотрицателен.",
+      "classLevel": 11
+    },
+    {
+      "id": 43,
+      "question": "Решите уравнение: log_5(x) = 2.",
+      "correctAnswer": "25",
+      "explanation": "x = 5^2 = 25.",
+      "classLevel": 11
+    },
+    {
+      "id": 44,
+      "question": "Найдите производную функции y = ctg(x).",
+      "correctAnswer": "-1/sin^2(x)",
+      "explanation": "Табличная производная котангенса.",
+      "classLevel": 11
+    },
+    {
+      "id": 45,
+      "question": "Найдите первообразную функции f(x) = 1/x.",
+      "correctAnswer": "ln|x| + C",
+      "explanation": "Производная натурального логарифма модуля равна 1/x.",
+      "classLevel": 11
+    },
+    {
+      "id": 46,
+      "question": "Вычислите площадь круга радиусом 5.",
+      "correctAnswer": "25pi",
+      "explanation": "S = pi * R^2. pi * 5^2 = 25pi.",
+      "classLevel": 11
+    },
+    {
+      "id": 47,
+      "question": "Найдите длину окружности с радиусом 10.",
+      "correctAnswer": "20pi",
+      "explanation": "L = 2 * pi * R. 2 * pi * 10 = 20pi.",
+      "classLevel": 11
+    },
+    {
+      "id": 48,
+      "question": "Решите уравнение: x^2 = 16.",
+      "correctAnswer": "-4; 4",
+      "explanation": "Квадратный корень из 16 это 4, но решений два: плюс и минус 4.",
+      "classLevel": 11
+    },
+    {
+      "id": 49,
+      "question": "Найдите производную функции y = sqrt(x).",
+      "correctAnswer": "1/(2*sqrt(x))",
+      "explanation": "sqrt(x) = x^(1/2). Производная: 1/2 * x^(-1/2) = 1/(2*sqrt(x)).",
+      "classLevel": 11
+    },
+    {
+      "id": 50,
+      "question": "Найдите значение выражения: 2^(-3).",
+      "correctAnswer": "1/8",
+      "explanation": "Отрицательная степень означает обратное число: 1 / 2^3 = 1/8.",
+      "classLevel": 11
+    },
+    {
+      "id": 51,
+      "question": "Решите неравенство: 2^x > 8.",
+      "correctAnswer": "(3; +inf)",
+      "explanation": "8 = 2^3. Так как основание > 1, знак сохраняется: x > 3.",
+      "classLevel": 11
+    },
+    {
+      "id": 52,
+      "question": "Найдите производную функции y = ln(2x).",
+      "correctAnswer": "1/x",
+      "explanation": "Производная ln(u) равна u'/u. u=2x, u'=2. 2/(2x) = 1/x.",
+      "classLevel": 11
+    },
+    {
+      "id": 53,
+      "question": "Вычислите интеграл от 1 до 2 функции 1/x^2.",
+      "correctAnswer": "0.5",
+      "explanation": "Первообразная -1/x. (-1/2) - (-1/1) = -0.5 + 1 = 0.5.",
+      "classLevel": 11
+    },
+    {
+      "id": 54,
+      "question": "Найдите объем шара радиусом 3.",
+      "correctAnswer": "36pi",
+      "explanation": "V = 4/3 * pi * R^3. 4/3 * pi * 27 = 36pi.",
+      "classLevel": 11
+    },
+    {
+      "id": 55,
+      "question": "Найдите синус угла 30 градусов.",
+      "correctAnswer": "0.5",
+      "explanation": "Табличное значение: sin(30°) = 1/2.",
+      "classLevel": 11
+    },
+    {
+      "id": 56,
+      "question": "Найдите косинус угла 60 градусов.",
+      "correctAnswer": "0.5",
+      "explanation": "Табличное значение: cos(60°) = 1/2.",
+      "classLevel": 11
+    },
+    {
+      "id": 57,
+      "question": "Решите уравнение: tg(x) = 0.",
+      "correctAnswer": "pi*n",
+      "explanation": "Тангенс равен нулю, когда синус равен нулю (в точках 0, pi, 2pi...).",
+      "classLevel": 11
+    },
+    {
+      "id": 58,
+      "question": "Найдите производную функции y = 5^x.",
+      "correctAnswer": "5^x * ln(5)",
+      "explanation": "Производная показательной функции a^x равна a^x * ln(a).",
+      "classLevel": 11
+    },
+    {
+      "id": 59,
+      "question": "Найдите точку минимума функции y = x^2.",
+      "correctAnswer": "0",
+      "explanation": "Вершина параболы находится в точке 0.",
+      "classLevel": 11
+    },
+    {
+      "id": 60,
+      "question": "Вычислите периметр квадрата со стороной 5.",
+      "correctAnswer": "20",
+      "explanation": "P = 4 * a. 4 * 5 = 20.",
+      "classLevel": 11
+    },
+    {
+      "id": 61,
+      "question": "Найдите производную функции y = arcsin(x).",
+      "correctAnswer": "1/sqrt(1-x^2)",
+      "explanation": "Табличная производная арксинуса.",
+      "classLevel": 11
+    },
+    {
+      "id": 62,
+      "question": "Решите уравнение: |x| = 5.",
+      "correctAnswer": "-5; 5",
+      "explanation": "Модуль числа равен 5, значит число может быть 5 или -5.",
+      "classLevel": 11
+    },
+    {
+      "id": 63,
+      "question": "Найдите значение выражения: cos(pi).",
+      "correctAnswer": "-1",
+      "explanation": "Косинус 180 градусов равен -1.",
+      "classLevel": 11
+    },
+    {
+      "id": 64,
+      "question": "Найдите значение выражения: sin(pi/2).",
+      "correctAnswer": "1",
+      "explanation": "Синус 90 градусов равен 1.",
+      "classLevel": 11
+    },
+    {
+      "id": 65,
+      "question": "Вычислите площадь прямоугольного треугольника с катетами 3 и 4.",
+      "correctAnswer": "6",
+      "explanation": "S = 1/2 * a * b. 1/2 * 3 * 4 = 6.",
+      "classLevel": 11
+    },
+    {
+      "id": 66,
+      "question": "Найдите гипотенузу прямоугольного треугольника с катетами 3 и 4.",
+      "correctAnswer": "5",
+      "explanation": "По теореме Пифагора: sqrt(3^2 + 4^2) = sqrt(9+16) = 5.",
+      "classLevel": 11
+    },
+    {
+      "id": 67,
+      "question": "Найдите производную функции y = x * e^x.",
+      "correctAnswer": "e^x * (1 + x)",
+      "explanation": "Правило произведения: 1*e^x + x*e^x = e^x(1+x).",
+      "classLevel": 11
+    },
+    {
+      "id": 68,
+      "question": "Решите неравенство: log_2(x) < 3.",
+      "correctAnswer": "(0; 8)",
+      "explanation": "ОДЗ: x > 0. Потенцируем: x < 2^3 => x < 8. Ответ (0; 8).",
+      "classLevel": 11
+    },
+    {
+      "id": 69,
+      "question": "Найдите объем призмы, площадь основания которой 10, а высота 5.",
+      "correctAnswer": "50",
+      "explanation": "V = S_осн * h. 10 * 5 = 50.",
+      "classLevel": 11
+    },
+    {
+      "id": 70,
+      "question": "Найдите производную функции y = ln(x^2).",
+      "correctAnswer": "2/x",
+      "explanation": "Можно упростить: 2ln(x). Производная 2 * (1/x) = 2/x.",
+      "classLevel": 11
+    },
+    {
+      "id": 71,
+      "question": "Вычислите значение: 5! (факториал).",
+      "correctAnswer": "120",
+      "explanation": "5! = 1 * 2 * 3 * 4 * 5 = 120.",
+      "classLevel": 11
+    },
+    {
+      "id": 72,
+      "question": "Сколько перестановок можно сделать из 3 элементов?",
+      "correctAnswer": "6",
+      "explanation": "P_3 = 3! = 6.",
+      "classLevel": 11
+    },
+    {
+      "id": 73,
+      "question": "Найдите производную функции y = sin(2x).",
+      "correctAnswer": "2cos(2x)",
+      "explanation": "Производная сложной функции: cos(2x) * (2x)' = 2cos(2x).",
+      "classLevel": 11
+    },
+    {
+      "id": 74,
+      "question": "Решите уравнение: x^3 = 27.",
+      "correctAnswer": "3",
+      "explanation": "Кубический корень из 27 равен 3.",
+      "classLevel": 11
+    },
+    {
+      "id": 75,
+      "question": "Найдите значение выражения: tg(0).",
+      "correctAnswer": "0",
+      "explanation": "Тангенс 0 градусов равен 0.",
+      "classLevel": 11
+    },
+    {
+      "id": 76,
+      "question": "Найдите производную функции y = cos(3x).",
+      "correctAnswer": "-3sin(3x)",
+      "explanation": "Производная cos(u) = -sin(u)*u'. u=3x, u'=3.",
+      "classLevel": 11
+    },
+    {
+      "id": 77,
+      "question": "Вычислите интеграл от 0 до 1 функции 3x^2.",
+      "correctAnswer": "1",
+      "explanation": "Первообразная x^3. 1^3 - 0^3 = 1.",
+      "classLevel": 11
+    },
+    {
+      "id": 78,
+      "question": "Найдите площадь боковой поверхности цилиндра с радиусом 1 и высотой 10.",
+      "correctAnswer": "20pi",
+      "explanation": "S = 2 * pi * R * h. 2 * pi * 1 * 10 = 20pi.",
+      "classLevel": 11
+    },
+    {
+      "id": 79,
+      "question": "Решите уравнение: 4^x = 2.",
+      "correctAnswer": "0.5",
+      "explanation": "4^x = (2^2)^x = 2^(2x). 2x = 1 => x = 0.5.",
+      "classLevel": 11
+    },
+    {
+      "id": 80,
+      "question": "Найдите производную функции y = 1/sin(x).",
+      "correctAnswer": "-cos(x)/sin^2(x)",
+      "explanation": "Производная дроби или сложной функции (sin(x))^(-1).",
+      "classLevel": 11
+    },
+    {
+      "id": 81,
+      "question": "Найдите значение выражения: log_2(1).",
+      "correctAnswer": "0",
+      "explanation": "Логарифм от 1 по любому основанию равен 0.",
+      "classLevel": 11
+    },
+    {
+      "id": 82,
+      "question": "Найдите производную функции y = arctg(x).",
+      "correctAnswer": "1/(1+x^2)",
+      "explanation": "Табличная производная арктангенса.",
+      "classLevel": 11
+    },
+    {
+      "id": 83,
+      "question": "Решите неравенство: x^2 > 9.",
+      "correctAnswer": "(-inf; -3) U (3; +inf)",
+      "explanation": "Квадрат больше 9, когда модуль числа больше 3.",
+      "classLevel": 11
+    },
+    {
+      "id": 84,
+      "question": "Найдите объем пирамиды с площадью основания 12 и высотой 5.",
+      "correctAnswer": "20",
+      "explanation": "V = 1/3 * S_осн * h. 1/3 * 12 * 5 = 20.",
+      "classLevel": 11
+    },
+    {
+      "id": 85,
+      "question": "Вычислите значение: sin(2x), если sin(x)=0.6 и x в первой четверти.",
+      "correctAnswer": "0.96",
+      "explanation": "sin(2x) = 2sin(x)cos(x). cos(x) = 0.8. 2 * 0.6 * 0.8 = 0.96.",
+      "classLevel": 11
+    },
+    {
+      "id": 86,
+      "question": "Найдите производную функции y = e^(-x).",
+      "correctAnswer": "-e^(-x)",
+      "explanation": "Производная e^u равна e^u * u'. u=-x, u'=-1.",
+      "classLevel": 11
+    },
+    {
+      "id": 87,
+      "question": "Решите уравнение: log_x(4) = 2.",
+      "correctAnswer": "2",
+      "explanation": "x^2 = 4. x может быть 2 или -2, но основание логарифма > 0, значит x=2.",
+      "classLevel": 11
+    },
+    {
+      "id": 88,
+      "question": "Найдите значение выражения: ctg(pi/4).",
+      "correctAnswer": "1",
+      "explanation": "Котангенс 45 градусов равен 1.",
+      "classLevel": 11
+    },
+    {
+      "id": 89,
+      "question": "Найдите производную функции y = ln(cos(x)).",
+      "correctAnswer": "-tg(x)",
+      "explanation": "Производная: (1/cos(x)) * (-sin(x)) = -sin(x)/cos(x) = -tg(x).",
+      "classLevel": 11
+    },
+    {
+      "id": 90,
+      "question": "Вычислите площадь трапеции с основаниями 4 и 6 и высотой 3.",
+      "correctAnswer": "15",
+      "explanation": "S = (a+b)/2 * h. (4+6)/2 * 3 = 5 * 3 = 15.",
+      "classLevel": 11
+    },
+    {
+      "id": 91,
+      "question": "Найдите производную функции y = x^x (в точке x=1, используя логарифмирование).",
+      "correctAnswer": "1",
+      "explanation": "y' = x^x * (ln(x) + 1). При x=1: 1^1 * (0 + 1) = 1.",
+      "classLevel": 11
+    },
+    {
+      "id": 92,
+      "question": "Решите уравнение: 3^(2x) - 10*3^x + 9 = 0.",
+      "correctAnswer": "0; 2",
+      "explanation": "Замена t = 3^x. t^2 - 10t + 9 = 0. t1=1, t2=9. 3^x=1 => x=0. 3^x=9 => x=2.",
+      "classLevel": 11
+    },
+    {
+      "id": 93,
+      "question": "Найдите значение выражения: arcsin(1).",
+      "correctAnswer": "pi/2",
+      "explanation": "Арксинус 1 равен пи/2.",
+      "classLevel": 11
+    },
+    {
+      "id": 94,
+      "question": "Найдите производную функции y = sqrt(1-x^2).",
+      "correctAnswer": "-x/sqrt(1-x^2)",
+      "explanation": "Производная сложной функции: 1/(2*sqrt(...)) * (-2x) = -x/sqrt(...).",
+      "classLevel": 11
+    },
+    {
+      "id": 95,
+      "question": "Вычислите интеграл от 0 до 2 функции 2.",
+      "correctAnswer": "4",
+      "explanation": "Площадь прямоугольника высотой 2 и шириной 2. Или первообразная 2x: 2*2 - 0 = 4.",
+      "classLevel": 11
+    },
+    {
+      "id": 96,
+      "question": "Найдите объем усеченного конуса (общая формула), если R=2, r=1, h=3.",
+      "correctAnswer": "7pi",
+      "explanation": "V = 1/3 * pi * h * (R^2 + Rr + r^2). 1/3 * pi * 3 * (4 + 2 + 1) = 7pi.",
+      "classLevel": 11
+    },
+    {
+      "id": 97,
+      "question": "Решите неравенство: e^x < 1.",
+      "correctAnswer": "(-inf; 0)",
+      "explanation": "Экспонента меньше 1, когда показатель степени отрицателен.",
+      "classLevel": 11
+    },
+    {
+      "id": 98,
+      "question": "Найдите производную функции y = sh(x) (гиперболический синус).",
+      "correctAnswer": "ch(x)",
+      "explanation": "Производная гиперболического синуса равна гиперболическому косинусу.",
+      "classLevel": 11
+    },
+    {
+      "id": 99,
+      "question": "Найдите значение выражения: cos(2x), если cos(x) = 0.",
+      "correctAnswer": "-1",
+      "explanation": "Формула cos(2x) = 2cos^2(x) - 1. 2*0 - 1 = -1.",
+      "classLevel": 11
+    },
+    {
+      "id": 100,
+      "question": "Найдите предел: lim (x->inf) (1/x).",
+      "correctAnswer": "0",
+      "explanation": "При стремлении знаменателя к бесконечности, дробь стремится к нулю.",
+      "classLevel": 11
+    }
+  ]
+}
