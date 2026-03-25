@@ -1,1 +1,704 @@
-
+{
+  "tasks": [
+    {
+      "id": 1,
+      "question": "Найдите значение выражения: sin(30°)",
+      "correctAnswer": "0.5",
+      "explanation": "Табличное значение синуса для угла 30 градусов равно 1/2 или 0.5.",
+      "classLevel": 10
+    },
+    {
+      "id": 2,
+      "question": "Вычислите производную функции f(x) = x²",
+      "correctAnswer": "2x",
+      "explanation": "По правилу дифференцирования степенной функции (x^n)' = n*x^(n-1), получаем 2x.",
+      "classLevel": 10
+    },
+    {
+      "id": 3,
+      "question": "Найдите объем куба с ребром 3 см",
+      "correctAnswer": "27",
+      "explanation": "Объем куба вычисляется по формуле V = a³. 3³ = 27.",
+      "classLevel": 10
+    },
+    {
+      "id": 4,
+      "question": "Решите уравнение: 2^x = 8",
+      "correctAnswer": "3",
+      "explanation": "Представим 8 как 2³. Тогда 2^x = 2³, откуда x = 3.",
+      "classLevel": 10
+    },
+    {
+      "id": 5,
+      "question": "Чему равен cos(60°)?",
+      "correctAnswer": "0.5",
+      "explanation": "Табличное значение косинуса для угла 60 градусов равно 1/2.",
+      "classLevel": 10
+    },
+    {
+      "id": 6,
+      "question": "Найдите область определения функции y = 1/x",
+      "correctAnswer": "x ≠ 0",
+      "explanation": "Дробь имеет смысл, когда знаменатель не равен нулю.",
+      "classLevel": 10
+    },
+    {
+      "id": 7,
+      "question": "Вычислите логарифм: log₂(16)",
+      "correctAnswer": "4",
+      "explanation": "2 в какой степени дает 16? 2⁴ = 16.",
+      "classLevel": 10
+    },
+    {
+      "id": 8,
+      "question": "Найдите площадь поверхности сферы радиусом 2",
+      "correctAnswer": "16π",
+      "explanation": "Формула площади сферы S = 4πR². 4 * π * 2² = 16π.",
+      "classLevel": 10
+    },
+    {
+      "id": 9,
+      "question": "Упростите выражение: sin²(x) + cos²(x)",
+      "correctAnswer": "1",
+      "explanation": "Это основное тригонометрическое тождество.",
+      "classLevel": 10
+    },
+    {
+      "id": 10,
+      "question": "Найдите производную функции f(x) = sin(x)",
+      "correctAnswer": "cos(x)",
+      "explanation": "Производная синуса равна косинусу.",
+      "classLevel": 10
+    },
+    {
+      "id": 11,
+      "question": "Решите неравенство: x² - 4 > 0",
+      "correctAnswer": "(-∞; -2) U (2; +∞)",
+      "explanation": "Корни уравнения x²-4=0 это ±2. Парабола ветвями вверх, больше нуля вне корней.",
+      "classLevel": 10
+    },
+    {
+      "id": 12,
+      "question": "Найдите тангенс угла 45°",
+      "correctAnswer": "1",
+      "explanation": "tg(45°) = sin(45°)/cos(45°) = 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 13,
+      "question": "Вычислите объем цилиндра с радиусом основания 2 и высотой 5",
+      "correctAnswer": "20π",
+      "explanation": "V = πR²h = π * 2² * 5 = 20π.",
+      "classLevel": 10
+    },
+    {
+      "id": 14,
+      "question": "Найдите производную функции y = 5x + 3",
+      "correctAnswer": "5",
+      "explanation": "Производная линейной функции равна угловому коэффициенту.",
+      "classLevel": 10
+    },
+    {
+      "id": 15,
+      "question": "Чему равен sin(90°)?",
+      "correctAnswer": "1",
+      "explanation": "Табличное значение синуса 90 градусов.",
+      "classLevel": 10
+    },
+    {
+      "id": 16,
+      "question": "Решите уравнение: log₃(x) = 2",
+      "correctAnswer": "9",
+      "explanation": "По определению логарифма x = 3² = 9.",
+      "classLevel": 10
+    },
+    {
+      "id": 17,
+      "question": "Найдите координаты вектора, если его начало (1, 2), а конец (4, 6)",
+      "correctAnswer": "(3, 4)",
+      "explanation": "Координаты вектора = (конец - начало): (4-1; 6-2) = (3; 4).",
+      "classLevel": 10
+    },
+    {
+      "id": 18,
+      "question": "Вычислите значение выражения: 3⁰",
+      "correctAnswer": "1",
+      "explanation": "Любое ненулевое число в степени 0 равно 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 19,
+      "question": "Найдите производную функции f(x) = e^x",
+      "correctAnswer": "e^x",
+      "explanation": "Производная экспоненты равна самой экспоненте.",
+      "classLevel": 10
+    },
+    {
+      "id": 20,
+      "question": "Чему равен cos(π)?",
+      "correctAnswer": "-1",
+      "explanation": "Косинус угла π (180 градусов) равен -1.",
+      "classLevel": 10
+    },
+    {
+      "id": 21,
+      "question": "Найдите объем конуса с радиусом 3 и высотой 4",
+      "correctAnswer": "12π",
+      "explanation": "V = (1/3)πR²h = (1/3) * π * 9 * 4 = 12π.",
+      "classLevel": 10
+    },
+    {
+      "id": 22,
+      "question": "Упростите: tg(x) * ctg(x)",
+      "correctAnswer": "1",
+      "explanation": "Тангенс и котангенс взаимно обратны, их произведение равно 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 23,
+      "question": "Решите уравнение: √x = 5",
+      "correctAnswer": "25",
+      "explanation": "Возведем обе части в квадрат: x = 25.",
+      "classLevel": 10
+    },
+    {
+      "id": 24,
+      "question": "Найдите производную функции y = x³",
+      "correctAnswer": "3x²",
+      "explanation": "Правило степени: 3 * x^(3-1) = 3x².",
+      "classLevel": 10
+    },
+    {
+      "id": 25,
+      "question": "Чему равен sin(0)?",
+      "correctAnswer": "0",
+      "explanation": "Синус нуля равен нулю.",
+      "classLevel": 10
+    },
+    {
+      "id": 26,
+      "question": "Найдите скалярное произведение векторов (1, 0) и (0, 1)",
+      "correctAnswer": "0",
+      "explanation": "1*0 + 0*1 = 0. Векторы перпендикулярны.",
+      "classLevel": 10
+    },
+    {
+      "id": 27,
+      "question": "Вычислите: ln(e)",
+      "correctAnswer": "1",
+      "explanation": "Натуральный логарифм от основания e равен 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 28,
+      "question": "Найдите площадь треугольника со сторонами 3, 4, 5",
+      "correctAnswer": "6",
+      "explanation": "Это прямоугольный треугольник (3²+4²=5²). Площадь = 1/2 * 3 * 4 = 6.",
+      "classLevel": 10
+    },
+    {
+      "id": 29,
+      "question": "Решите уравнение: cos(x) = 0",
+      "correctAnswer": "π/2 + πn",
+      "explanation": "Косинус равен нулю в точках π/2, 3π/2 и т.д.",
+      "classLevel": 10
+    },
+    {
+      "id": 30,
+      "question": "Найдите производную функции y = cos(x)",
+      "correctAnswer": "-sin(x)",
+      "explanation": "Производная косинуса равна минус синусу.",
+      "classLevel": 10
+    },
+    {
+      "id": 31,
+      "question": "Чему равен tg(0)?",
+      "correctAnswer": "0",
+      "explanation": "tg(0) = sin(0)/cos(0) = 0/1 = 0.",
+      "classLevel": 10
+    },
+    {
+      "id": 32,
+      "question": "Найдите объем шара радиусом 3",
+      "correctAnswer": "36π",
+      "explanation": "V = (4/3)πR³ = (4/3) * π * 27 = 36π.",
+      "classLevel": 10
+    },
+    {
+      "id": 33,
+      "question": "Упростите выражение: (a²)³",
+      "correctAnswer": "a⁶",
+      "explanation": "При возведении степени в степень показатели перемножаются.",
+      "classLevel": 10
+    },
+    {
+      "id": 34,
+      "question": "Найдите производную функции y = 1/x",
+      "correctAnswer": "-1/x²",
+      "explanation": "y = x⁻¹, y' = -1 * x⁻² = -1/x².",
+      "classLevel": 10
+    },
+    {
+      "id": 35,
+      "question": "Решите неравенство: 2x > 10",
+      "correctAnswer": "x > 5",
+      "explanation": "Разделим обе части на 2.",
+      "classLevel": 10
+    },
+    {
+      "id": 36,
+      "question": "Чему равен cos(0)?",
+      "correctAnswer": "1",
+      "explanation": "Косинус нуля равен 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 37,
+      "question": "Найдите длину вектора (3, 4)",
+      "correctAnswer": "5",
+      "explanation": "Длина = √(3² + 4²) = √(9+16) = √25 = 5.",
+      "classLevel": 10
+    },
+    {
+      "id": 38,
+      "question": "Вычислите: 2⁻²",
+      "correctAnswer": "0.25",
+      "explanation": "2⁻² = 1 / 2² = 1/4 = 0.25.",
+      "classLevel": 10
+    },
+    {
+      "id": 39,
+      "question": "Найдите производную функции y = 5",
+      "correctAnswer": "0",
+      "explanation": "Производная константы равна нулю.",
+      "classLevel": 10
+    },
+    {
+      "id": 40,
+      "question": "Решите уравнение: sin(x) = 1",
+      "correctAnswer": "π/2 + 2πn",
+      "explanation": "Синус равен 1 только в точке π/2 (с учетом периода).",
+      "classLevel": 10
+    },
+    {
+      "id": 41,
+      "question": "Найдите площадь боковой поверхности куба с ребром 2",
+      "correctAnswer": "16",
+      "explanation": "4 грани * (2*2) = 16.",
+      "classLevel": 10
+    },
+    {
+      "id": 42,
+      "question": "Упростите: sin(2x)",
+      "correctAnswer": "2sin(x)cos(x)",
+      "explanation": "Формула синуса двойного угла.",
+      "classLevel": 10
+    },
+    {
+      "id": 43,
+      "question": "Найдите производную функции y = √x",
+      "correctAnswer": "1/(2√x)",
+      "explanation": "y = x^(1/2), y' = (1/2)x^(-1/2) = 1/(2√x).",
+      "classLevel": 10
+    },
+    {
+      "id": 44,
+      "question": "Чему равен tg(π/4)?",
+      "correctAnswer": "1",
+      "explanation": "Тангенс 45 градусов равен 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 45,
+      "question": "Решите уравнение: 3^x = 1",
+      "correctAnswer": "0",
+      "explanation": "Любое число в степени 0 равно 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 46,
+      "question": "Найдите координаты середины отрезка с концами (2, 2) и (6, 6)",
+      "correctAnswer": "(4, 4)",
+      "explanation": "Среднее арифметическое координат: ((2+6)/2, (2+6)/2).",
+      "classLevel": 10
+    },
+    {
+      "id": 47,
+      "question": "Вычислите: log₁₀(100)",
+      "correctAnswer": "2",
+      "explanation": "10 в какой степени дает 100? 10² = 100.",
+      "classLevel": 10
+    },
+    {
+      "id": 48,
+      "question": "Найдите объем призмы, если площадь основания 10, а высота 5",
+      "correctAnswer": "50",
+      "explanation": "V = S_осн * h = 10 * 5 = 50.",
+      "classLevel": 10
+    },
+    {
+      "id": 49,
+      "question": "Найдите производную функции y = 2x²",
+      "correctAnswer": "4x",
+      "explanation": "Константу выносим, дифференцируем x²: 2 * 2x = 4x.",
+      "classLevel": 10
+    },
+    {
+      "id": 50,
+      "question": "Чему равен sin(π/2)?",
+      "correctAnswer": "1",
+      "explanation": "Синус 90 градусов равен 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 51,
+      "question": "Решите уравнение: x² = 9",
+      "correctAnswer": "±3",
+      "explanation": "Корни квадратного уравнения: 3 и -3.",
+      "classLevel": 10
+    },
+    {
+      "id": 52,
+      "question": "Найдите скалярное произведение векторов (2, 3) и (1, 1)",
+      "correctAnswer": "5",
+      "explanation": "2*1 + 3*1 = 2 + 3 = 5.",
+      "classLevel": 10
+    },
+    {
+      "id": 53,
+      "question": "Упростите: cos(2x)",
+      "correctAnswer": "cos²(x) - sin²(x)",
+      "explanation": "Формула косинуса двойного угла (один из вариантов).",
+      "classLevel": 10
+    },
+    {
+      "id": 54,
+      "question": "Найдите производную функции y = ln(x)",
+      "correctAnswer": "1/x",
+      "explanation": "Производная натурального логарифма равна 1/x.",
+      "classLevel": 10
+    },
+    {
+      "id": 55,
+      "question": "Чему равен cos(π/2)?",
+      "correctAnswer": "0",
+      "explanation": "Косинус 90 градусов равен 0.",
+      "classLevel": 10
+    },
+    {
+      "id": 56,
+      "question": "Найдите площадь круга радиусом 3",
+      "correctAnswer": "9π",
+      "explanation": "S = πR² = π * 3² = 9π.",
+      "classLevel": 10
+    },
+    {
+      "id": 57,
+      "question": "Решите неравенство: x + 5 < 0",
+      "correctAnswer": "x < -5",
+      "explanation": "Переносим 5 вправо со знаком минус.",
+      "classLevel": 10
+    },
+    {
+      "id": 58,
+      "question": "Найдите производную функции y = tg(x)",
+      "correctAnswer": "1/cos²(x)",
+      "explanation": "Производная тангенса равна 1/cos²(x).",
+      "classLevel": 10
+    },
+    {
+      "id": 59,
+      "question": "Чему равен sin(π)?",
+      "correctAnswer": "0",
+      "explanation": "Синус 180 градусов равен 0.",
+      "classLevel": 10
+    },
+    {
+      "id": 60,
+      "question": "Вычислите: 5! (факториал)",
+      "correctAnswer": "120",
+      "explanation": "5! = 1*2*3*4*5 = 120.",
+      "classLevel": 10
+    },
+    {
+      "id": 61,
+      "question": "Найдите объем пирамиды с площадью основания 12 и высотой 5",
+      "correctAnswer": "20",
+      "explanation": "V = (1/3) * S_осн * h = (1/3) * 12 * 5 = 20.",
+      "classLevel": 10
+    },
+    {
+      "id": 62,
+      "question": "Упростите: 1 - cos²(x)",
+      "correctAnswer": "sin²(x)",
+      "explanation": "Следствие из основного тригонометрического тождества.",
+      "classLevel": 10
+    },
+    {
+      "id": 63,
+      "question": "Найдите производную функции y = 3^x",
+      "correctAnswer": "3^x * ln(3)",
+      "explanation": "Производная показательной функции a^x равна a^x * ln(a).",
+      "classLevel": 10
+    },
+    {
+      "id": 64,
+      "question": "Решите уравнение: |x| = 5",
+      "correctAnswer": "±5",
+      "explanation": "Модуль числа равен 5, значит число 5 или -5.",
+      "classLevel": 10
+    },
+    {
+      "id": 65,
+      "question": "Чему равен tg(π/2)?",
+      "correctAnswer": "не существует",
+      "explanation": "Косинус в знаменателе равен 0, деление на 0 невозможно.",
+      "classLevel": 10
+    },
+    {
+      "id": 66,
+      "question": "Найдите длину окружности радиусом 2",
+      "correctAnswer": "4π",
+      "explanation": "L = 2πR = 2π * 2 = 4π.",
+      "classLevel": 10
+    },
+    {
+      "id": 67,
+      "question": "Найдите производную функции y = x⁴",
+      "correctAnswer": "4x³",
+      "explanation": "Правило степени.",
+      "classLevel": 10
+    },
+    {
+      "id": 68,
+      "question": "Вычислите: log₂(32)",
+      "correctAnswer": "5",
+      "explanation": "2⁵ = 32.",
+      "classLevel": 10
+    },
+    {
+      "id": 69,
+      "question": "Найдите площадь прямоугольника со сторонами 5 и 8",
+      "correctAnswer": "40",
+      "explanation": "S = a * b = 5 * 8 = 40.",
+      "classLevel": 10
+    },
+    {
+      "id": 70,
+      "question": "Решите уравнение: 2x - 4 = 0",
+      "correctAnswer": "2",
+      "explanation": "2x = 4, x = 2.",
+      "classLevel": 10
+    },
+    {
+      "id": 71,
+      "question": "Найдите производную функции y = ctg(x)",
+      "correctAnswer": "-1/sin²(x)",
+      "explanation": "Производная котангенса.",
+      "classLevel": 10
+    },
+    {
+      "id": 72,
+      "question": "Чему равен cos(2π)?",
+      "correctAnswer": "1",
+      "explanation": "Косинус полного оборота (360 градусов) равен 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 73,
+      "question": "Найдите объем цилиндра, если R=1, h=10",
+      "correctAnswer": "10π",
+      "explanation": "V = π * 1² * 10 = 10π.",
+      "classLevel": 10
+    },
+    {
+      "id": 74,
+      "question": "Упростите: sin(x + π)",
+      "correctAnswer": "-sin(x)",
+      "explanation": "Формула приведения: синус во второй четверти отрицателен.",
+      "classLevel": 10
+    },
+    {
+      "id": 75,
+      "question": "Найдите производную функции y = (x+1)²",
+      "correctAnswer": "2(x+1)",
+      "explanation": "Производная сложной функции или раскрытие скобок: (x²+2x+1)' = 2x+2.",
+      "classLevel": 10
+    },
+    {
+      "id": 76,
+      "question": "Решите неравенство: -x > 2",
+      "correctAnswer": "x < -2",
+      "explanation": "При делении на отрицательное число знак неравенства меняется.",
+      "classLevel": 10
+    },
+    {
+      "id": 77,
+      "question": "Чему равен sin(3π/2)?",
+      "correctAnswer": "-1",
+      "explanation": "Синус 270 градусов равен -1.",
+      "classLevel": 10
+    },
+    {
+      "id": 78,
+      "question": "Найдите площадь трапеции с основаниями 4 и 6, высотой 3",
+      "correctAnswer": "15",
+      "explanation": "S = (a+b)/2 * h = (4+6)/2 * 3 = 5 * 3 = 15.",
+      "classLevel": 10
+    },
+    {
+      "id": 79,
+      "question": "Вычислите: 10³",
+      "correctAnswer": "1000",
+      "explanation": "10 * 10 * 10 = 1000.",
+      "classLevel": 10
+    },
+    {
+      "id": 80,
+      "question": "Найдите производную функции y = 10",
+      "correctAnswer": "0",
+      "explanation": "Производная константы.",
+      "classLevel": 10
+    },
+    {
+      "id": 81,
+      "question": "Чему равен tg(π)?",
+      "correctAnswer": "0",
+      "explanation": "tg(π) = sin(π)/cos(π) = 0 / -1 = 0.",
+      "classLevel": 10
+    },
+    {
+      "id": 82,
+      "question": "Найдите объем шара, если диаметр равен 2",
+      "correctAnswer": "4/3 π",
+      "explanation": "Радиус = 1. V = (4/3)π * 1³ = 4/3 π.",
+      "classLevel": 10
+    },
+    {
+      "id": 83,
+      "question": "Упростите: cos(x - π/2)",
+      "correctAnswer": "sin(x)",
+      "explanation": "Формула приведения.",
+      "classLevel": 10
+    },
+    {
+      "id": 84,
+      "question": "Найдите производную функции y = x⁵",
+      "correctAnswer": "5x⁴",
+      "explanation": "Правило степени.",
+      "classLevel": 10
+    },
+    {
+      "id": 85,
+      "question": "Решите уравнение: √(x-1) = 0",
+      "correctAnswer": "1",
+      "explanation": "x - 1 = 0, x = 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 86,
+      "question": "Чему равен cos(3π/2)?",
+      "correctAnswer": "0",
+      "explanation": "Косинус 270 градусов равен 0.",
+      "classLevel": 10
+    },
+    {
+      "id": 87,
+      "question": "Найдите периметр квадрата со стороной 5",
+      "correctAnswer": "20",
+      "explanation": "P = 4a = 4 * 5 = 20.",
+      "classLevel": 10
+    },
+    {
+      "id": 88,
+      "question": "Вычислите: 2³ + 3²",
+      "correctAnswer": "17",
+      "explanation": "8 + 9 = 17.",
+      "classLevel": 10
+    },
+    {
+      "id": 89,
+      "question": "Найдите производную функции y = -x",
+      "correctAnswer": "-1",
+      "explanation": "Коэффициент при x.",
+      "classLevel": 10
+    },
+    {
+      "id": 90,
+      "question": "Решите неравенство: x² < 0",
+      "correctAnswer": "нет решений",
+      "explanation": "Квадрат действительного числа не может быть отрицательным.",
+      "classLevel": 10
+    },
+    {
+      "id": 91,
+      "question": "Чему равен sin(2π)?",
+      "correctAnswer": "0",
+      "explanation": "Синус полного оборота равен 0.",
+      "classLevel": 10
+    },
+    {
+      "id": 92,
+      "question": "Найдите площадь боковой поверхности цилиндра (R=2, h=3)",
+      "correctAnswer": "12π",
+      "explanation": "S = 2πRh = 2π * 2 * 3 = 12π.",
+      "classLevel": 10
+    },
+    {
+      "id": 93,
+      "question": "Упростите: 1 + tg²(x)",
+      "correctAnswer": "1/cos²(x)",
+      "explanation": "Основное тригонометрическое тождество для тангенса.",
+      "classLevel": 10
+    },
+    {
+      "id": 94,
+      "question": "Найдите производную функции y = 7x",
+      "correctAnswer": "7",
+      "explanation": "Производная линейной функции.",
+      "classLevel": 10
+    },
+    {
+      "id": 95,
+      "question": "Вычислите: 0!",
+      "correctAnswer": "1",
+      "explanation": "По определению факториала 0! = 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 96,
+      "question": "Чему равен tg(0)?",
+      "correctAnswer": "0",
+      "explanation": "Тангенс нуля равен 0.",
+      "classLevel": 10
+    },
+    {
+      "id": 97,
+      "question": "Найдите объем куба с диагональю √3",
+      "correctAnswer": "1",
+      "explanation": "Диагональ куба d = a√3. Значит a=1. V=1³=1.",
+      "classLevel": 10
+    },
+    {
+      "id": 98,
+      "question": "Решите уравнение: 5^x = 25",
+      "correctAnswer": "2",
+      "explanation": "25 = 5², значит x=2.",
+      "classLevel": 10
+    },
+    {
+      "id": 99,
+      "question": "Найдите производную функции y = x",
+      "correctAnswer": "1",
+      "explanation": "Производная от x равна 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 100,
+      "question": "Чему равен cos(π/3)?",
+      "correctAnswer": "0.5",
+      "explanation": "Косинус 60 градусов равен 1/2.",
+      "classLevel": 10
+    }
+  ]
+}
