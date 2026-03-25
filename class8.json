@@ -1,1 +1,1260 @@
+федор достоевский
+ichigo_kurosaki764
+Невидимый
 
+Вы пропустили звонок от 
+dkozlik
+, который длился минута. — 17.03.2026 20:42
+федор достоевский
+ начал звонок, который продлился 2 часа. — 17.03.2026 20:43
+федор достоевский [DRO],  — 17.03.2026 22:12
+
+dkozlik
+ начал звонок, который продлился 2 часа. — 18.03.2026 16:37
+федор достоевский
+ начал звонок, который продлился несколько секунд. — 18.03.2026 18:50
+Вы пропустили звонок от 
+dkozlik
+, который длился 3 минуты. — 18.03.2026 18:57
+федор достоевский
+ начал звонок, который продлился час. — 18.03.2026 19:07
+федор достоевский [DRO],  — 18.03.2026 19:11
+TECHWORK1
+Вы пропустили звонок от 
+dkozlik
+, который длился минута. — 18.03.2026 21:01
+федор достоевский [DRO],  — 18.03.2026 21:50
+{
+ "tasks ": [
+{"id ": 201, "question ": "Сколько будет 7 × 8? ", "correctAnswer ": "56 ", "explanation ": "7 умножить на 8 = 56. ", "classLevel ": 3},
+{"id ": 202, "question ": "Сколько будет 9 × 6? ", "correctAnswer ": "54 ", "explanation ": "9 умножить на 6 = 54. ", "classLevel ": 3},
+{"id ": 203, "question ": "Что такое 45 ÷ 9? ", "correctAnswer ": "5 ", "explanation ": "45 разделить на 9 = 5. ", "classLevel ": 3},
+{"id ": 204, "question ": "Что такое 64 ÷ 8? ", "correctAnswer ": "8 ", "explanation ": "64 разделить на 8 = 8. ", "classLevel ": 3},
+
+message.txt
+10 кб
+dkozlik — 18.03.2026 21:50
+ой бля
+ты че
+ебу дал?
+федор достоевский [DRO],  — 18.03.2026 21:50
+проэкт пишу
+dkozlik — 18.03.2026 21:50
+и мне его скинуть решил?
+федор достоевский [DRO],  — 18.03.2026 21:50
+это задания только для 3 класса
+из 11
+классов
+dkozlik — 18.03.2026 21:50
+че бля
+всмысле для 3?
+федор достоевский [DRO],  — 18.03.2026 21:51
+задания для 3 класса
+dkozlik — 18.03.2026 21:52
+типо ты в проэкте пишешь задания для всех классов?
+федор достоевский [DRO],  — 18.03.2026 21:52
+да
+можешь помочь
+dkozlik — 18.03.2026 21:52
+ой бляяяяяяяяя
+валяй
+федор достоевский [DRO],  — 18.03.2026 21:53
+в вк
+https://chat.qwen.ai/c/423069ac-af8e-4bca-b45e-7c1c158e8f9d
+Qwen Chat
+Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.
+федор достоевский [DRO],  — 18.03.2026 22:13
+https://github.com/zaqmlp1275/math-tasks-api/blob/main/class1.json
+GitHub
+math-tasks-api/class1.json at main · zaqmlp1275/math-tasks-api
+Contribute to zaqmlp1275/math-tasks-api development by creating an account on GitHub.
+dkozlik — 18.03.2026 22:19
+{
+  "tasks": [
+    {
+      "id": 1,
+      "question": "Найдите производную функции f(x) = x^3.",
+      "correctAnswer": "3x^2",
+      "explanation": "По правилу дифференцирования степенной функции (x^n)' = n*x^(n-1).",
+      "classLevel": 11
+    },
+    {
+      "id": 2,
+      "question": "Вычислите значение производной функции f(x) = 5x в точке x = 2.",
+      "correctAnswer": "5",
+      "explanation": "Производная константы, умноженной на x, равна самой константе: (5x)' = 5.",
+      "classLevel": 11
+    },
+    {
+      "id": 3,
+      "question": "Найдите производную функции y = sin(x).",
+      "correctAnswer": "cos(x)",
+      "explanation": "Это табличная производная тригонометрической функции.",
+      "classLevel": 11
+    },
+    {
+      "id": 4,
+      "question": "Найдите производную функции y = cos(x).",
+      "correctAnswer": "-sin(x)",
+      "explanation": "Это табличная производная, не забудьте знак минус.",
+      "classLevel": 11
+    },
+    {
+      "id": 5,
+      "question": "Вычислите производную функции f(x) = x^2 + 3x.",
+      "correctAnswer": "2x + 3",
+      "explanation": "Применяем правило суммы производных: (x^2)' + (3x)' = 2x + 3.",
+      "classLevel": 11
+    },
+    {
+      "id": 6,
+      "question": "Найдите производную функции y = e^x.",
+      "correctAnswer": "e^x",
+      "explanation": "Производная экспоненты равна самой экспоненте.",
+      "classLevel": 11
+    },
+    {
+      "id": 7,
+      "question": "Найдите производную функции y = ln(x).",
+      "correctAnswer": "1/x",
+      "explanation": "Производная натурального логарифма равна 1/x.",
+      "classLevel": 11
+    },
+    {
+      "id": 8,
+      "question": "Вычислите производную функции f(x) = 4.",
+      "correctAnswer": "0",
+      "explanation": "Производная от любого числа (константы) равна нулю.",
+      "classLevel": 11
+    },
+    {
+      "id": 9,
+      "question": "Найдите производную функции y = tg(x).",
+      "correctAnswer": "1/cos^2(x)",
+      "explanation": "Табличная производная тангенса.",
+      "classLevel": 11
+    },
+    {
+      "id": 10,
+      "question": "Найдите производную функции f(x) = x^(-2).",
+      "correctAnswer": "-2x^(-3)",
+      "explanation": "Используем формулу (x^n)' = n*x^(n-1), где n = -2.",
+      "classLevel": 11
+    },
+    {
+      "id": 11,
+      "question": "Найдите угловой коэффициент касательной к графику y = x^2 в точке x = 1.",
+      "correctAnswer": "2",
+      "explanation": "Угловой коэффициент равен значению производной в точке: y' = 2x, при x=1 ответ 2.",
+      "classLevel": 11
+    },
+    {
+      "id": 12,
+      "question": "Найдите точку максимума функции y = -x^2 + 4x.",
+      "correctAnswer": "2",
+      "explanation": "Находим производную y' = -2x + 4. Приравниваем к 0: -2x + 4 = 0 => x = 2. Это вершина параболы.",
+      "classLevel": 11
+    },
+    {
+      "id": 13,
+      "question": "Найдите первообразную функции f(x) = 2x.",
+      "correctAnswer": "x^2 + C",
+      "explanation": "Интеграл от 2x равен x^2. Не забываем константу C.",
+      "classLevel": 11
+    },
+    {
+      "id": 14,
+      "question": "Вычислите определенный интеграл от 0 до 1 функции f(x) = 2x.",
+      "correctAnswer": "1",
+      "explanation": "Первообразная x^2. Подставляем пределы: 1^2 - 0^2 = 1.",
+      "classLevel": 11
+    },
+... (осталось: 604 строки)
+
+message.txt
+29 кб
+dkozlik — 18.03.2026 22:19
+11
+{
+  "tasks": [
+    {
+      "id": 1,
+      "question": "Найдите значение выражения: sin(30°)",
+      "correctAnswer": "0.5",
+      "explanation": "Табличное значение синуса для угла 30 градусов равно 1/2 или 0.5.",
+      "classLevel": 10
+    },
+    {
+      "id": 2,
+      "question": "Вычислите производную функции f(x) = x²",
+      "correctAnswer": "2x",
+      "explanation": "По правилу дифференцирования степенной функции (x^n)' = n*x^(n-1), получаем 2x.",
+      "classLevel": 10
+    },
+    {
+      "id": 3,
+      "question": "Найдите объем куба с ребром 3 см",
+      "correctAnswer": "27",
+      "explanation": "Объем куба вычисляется по формуле V = a³. 3³ = 27.",
+      "classLevel": 10
+    },
+    {
+      "id": 4,
+      "question": "Решите уравнение: 2^x = 8",
+      "correctAnswer": "3",
+      "explanation": "Представим 8 как 2³. Тогда 2^x = 2³, откуда x = 3.",
+      "classLevel": 10
+    },
+    {
+      "id": 5,
+      "question": "Чему равен cos(60°)?",
+      "correctAnswer": "0.5",
+      "explanation": "Табличное значение косинуса для угла 60 градусов равно 1/2.",
+      "classLevel": 10
+    },
+    {
+      "id": 6,
+      "question": "Найдите область определения функции y = 1/x",
+      "correctAnswer": "x ≠ 0",
+      "explanation": "Дробь имеет смысл, когда знаменатель не равен нулю.",
+      "classLevel": 10
+    },
+    {
+      "id": 7,
+      "question": "Вычислите логарифм: log₂(16)",
+      "correctAnswer": "4",
+      "explanation": "2 в какой степени дает 16? 2⁴ = 16.",
+      "classLevel": 10
+    },
+    {
+      "id": 8,
+      "question": "Найдите площадь поверхности сферы радиусом 2",
+      "correctAnswer": "16π",
+      "explanation": "Формула площади сферы S = 4πR². 4 * π * 2² = 16π.",
+      "classLevel": 10
+    },
+    {
+      "id": 9,
+      "question": "Упростите выражение: sin²(x) + cos²(x)",
+      "correctAnswer": "1",
+      "explanation": "Это основное тригонометрическое тождество.",
+      "classLevel": 10
+    },
+    {
+      "id": 10,
+      "question": "Найдите производную функции f(x) = sin(x)",
+      "correctAnswer": "cos(x)",
+      "explanation": "Производная синуса равна косинусу.",
+      "classLevel": 10
+    },
+    {
+      "id": 11,
+      "question": "Решите неравенство: x² - 4 > 0",
+      "correctAnswer": "(-∞; -2) U (2; +∞)",
+      "explanation": "Корни уравнения x²-4=0 это ±2. Парабола ветвями вверх, больше нуля вне корней.",
+      "classLevel": 10
+    },
+    {
+      "id": 12,
+      "question": "Найдите тангенс угла 45°",
+      "correctAnswer": "1",
+      "explanation": "tg(45°) = sin(45°)/cos(45°) = 1.",
+      "classLevel": 10
+    },
+    {
+      "id": 13,
+      "question": "Вычислите объем цилиндра с радиусом основания 2 и высотой 5",
+      "correctAnswer": "20π",
+      "explanation": "V = πR²h = π * 2² * 5 = 20π.",
+      "classLevel": 10
+    },
+    {
+      "id": 14,
+      "question": "Найдите производную функции y = 5x + 3",
+      "correctAnswer": "5",
+      "explanation": "Производная линейной функции равна угловому коэффициенту.",
+      "classLevel": 10
+    },
+... (осталось: 604 строки)
+
+message.txt
+25 кб
+dkozlik — 18.03.2026 22:19
+10
+{
+  "tasks": [
+    {
+      "id": 1,
+      "question": "Решите уравнение: x² - 5x + 6 = 0",
+      "correctAnswer": "x = 2; x = 3",
+      "explanation": "Разложим на множители: (x-2)(x-3)=0, откуда x=2 или x=3.",
+      "classLevel": 9
+    },
+    {
+      "id": 2,
+      "question": "Найдите значение выражения: √(144) + √(25)",
+      "correctAnswer": "17",
+      "explanation": "√144 = 12, √25 = 5, значит 12 + 5 = 17.",
+      "classLevel": 9
+    },
+    {
+      "id": 3,
+      "question": "Решите неравенство: 2x - 7 > 3",
+      "correctAnswer": "x > 5",
+      "explanation": "2x > 10, делим на 2: x > 5.",
+      "classLevel": 9
+    },
+    {
+      "id": 4,
+      "question": "Найдите площадь прямоугольника со сторонами 8 см и 12 см",
+      "correctAnswer": "96 см²",
+      "explanation": "Площадь = длина × ширина = 8 × 12 = 96 см².",
+      "classLevel": 9
+    },
+    {
+      "id": 5,
+      "question": "Упростите выражение: (a³)² · a⁴",
+      "correctAnswer": "a¹⁰",
+      "explanation": "(a³)² = a⁶, a⁶ · a⁴ = a⁶⁺⁴ = a¹⁰.",
+      "classLevel": 9
+    },
+    {
+      "id": 6,
+      "question": "Найдите корни уравнения: 3x + 7 = 22",
+      "correctAnswer": "x = 5",
+      "explanation": "3x = 15, x = 15 : 3 = 5.",
+      "classLevel": 9
+    },
+    {
+      "id": 7,
+      "question": "Вычислите: (-3)³ + 2²",
+      "correctAnswer": "-23",
+      "explanation": "(-3)³ = -27, 2² = 4, -27 + 4 = -23.",
+      "classLevel": 9
+    },
+    {
+      "id": 8,
+      "question": "Найдите гипотенузу прямоугольного треугольника с катетами 6 см и 8 см",
+      "correctAnswer": "10 см",
+      "explanation": "По теореме Пифагора: c = √(6² + 8²) = √(36+64) = √100 = 10 см.",
+      "classLevel": 9
+    },
+    {
+      "id": 9,
+      "question": "Решите систему уравнений: {x + y = 7; x - y = 3}",
+      "correctAnswer": "x = 5; y = 2",
+      "explanation": "Сложим уравнения: 2x = 10, x = 5. Подставим: 5 + y = 7, y = 2.",
+      "classLevel": 9
+    },
+    {
+      "id": 10,
+      "question": "Найдите значение выражения при x = -2: 3x² - 4x + 1",
+      "correctAnswer": "21",
+      "explanation": "3·(-2)² - 4·(-2) + 1 = 3·4 + 8 + 1 = 12 + 8 + 1 = 21.",
+      "classLevel": 9
+    },
+    {
+      "id": 11,
+      "question": "Упростите дробь: (6x²y) / (9xy²)",
+      "correctAnswer": "(2x) / (3y)",
+      "explanation": "Сокращаем на 3xy: (6x²y)/(9xy²) = (2x)/(3y).",
+      "classLevel": 9
+    },
+    {
+      "id": 12,
+      "question": "Найдите сумму первых 10 натуральных чисел",
+      "correctAnswer": "55",
+      "explanation": "Формула суммы арифметической прогрессии: S = n(n+1)/2 = 10·11/2 = 55.",
+      "classLevel": 9
+    },
+    {
+      "id": 13,
+      "question": "Решите уравнение: |x - 4| = 6",
+      "correctAnswer": "x = 10; x = -2",
+      "explanation": "x - 4 = 6 → x = 10; x - 4 = -6 → x = -2.",
+      "classLevel": 9
+    },
+    {
+      "id": 14,
+      "question": "Найдите периметр квадрата со стороной 7 см",
+      "correctAnswer": "28 см",
+      "explanation": "Периметр квадрата = 4 · сторона = 4 · 7 = 28 см.",
+      "classLevel": 9
+    },
+... (осталось: 614 строк)
+
+message.txt
+30 кб
+dkozlik — 18.03.2026 22:20
+9
+Изображение
+{
+  "tasks": [
+    {
+      "id": 1,
+      "question": "Упростите выражение: √16",
+      "correctAnswer": "4",
+      "explanation": "Арифметический квадратный корень из 16 равен 4, так как 4² = 16.",
+      "classLevel": 8
+    },
+    {
+      "id": 2,
+      "question": "Решите уравнение: x² = 25",
+      "correctAnswer": "±5",
+      "explanation": "Корни уравнения x² = a (где a > 0) равны ±√a. √25 = 5.",
+      "classLevel": 8
+    },
+    {
+      "id": 3,
+      "question": "Вычислите: 2⁻³",
+      "correctAnswer": "0.125",
+      "explanation": "2⁻³ = 1 / 2³ = 1/8 = 0.125.",
+      "classLevel": 8
+    },
+    {
+      "id": 4,
+      "question": "Найдите значение выражения при x=2: 3x - 5",
+      "correctAnswer": "1",
+      "explanation": "Подставляем x=2: 3*2 - 5 = 6 - 5 = 1.",
+      "classLevel": 8
+    },
+    {
+      "id": 5,
+      "question": "Разложите на множители: x² - 9",
+      "correctAnswer": "(x-3)(x+3)",
+      "explanation": "Формула разности квадратов: a² - b² = (a-b)(a+b).",
+      "classLevel": 8
+    },
+    {
+      "id": 6,
+      "question": "Решите неравенство: 2x > 10",
+      "correctAnswer": "x > 5",
+      "explanation": "Делим обе части на положительное число 2, знак не меняется.",
+      "classLevel": 8
+    },
+    {
+      "id": 7,
+      "question": "Найдите дискриминант уравнения: x² + 4x + 4 = 0",
+      "correctAnswer": "0",
+      "explanation": "D = b² - 4ac = 4² - 4*1*4 = 16 - 16 = 0.",
+      "classLevel": 8
+    },
+    {
+      "id": 8,
+      "question": "Чему равен угол между диагоналями квадрата?",
+      "correctAnswer": "90°",
+      "explanation": "Диагонали квадрата перпендикулярны.",
+      "classLevel": 8
+    },
+    {
+      "id": 9,
+      "question": "Упростите дробь: (2x) / (4x)",
+      "correctAnswer": "0.5",
+      "explanation": "Сокращаем на 2x (при x≠0), получаем 1/2 или 0.5.",
+      "classLevel": 8
+    },
+    {
+      "id": 10,
+      "question": "Вычислите: √(81)",
+      "correctAnswer": "9",
+      "explanation": "9² = 81.",
+      "classLevel": 8
+    },
+    {
+      "id": 11,
+      "question": "Решите уравнение: (x-1)(x+2) = 0",
+      "correctAnswer": "1; -2",
+      "explanation": "Произведение равно нулю, когда один из множителей равен нулю.",
+      "classLevel": 8
+    },
+    {
+      "id": 12,
+      "question": "Найдите сумму корней уравнения: x² - 5x + 6 = 0",
+      "correctAnswer": "5",
+      "explanation": "По теореме Виета сумма корней равна -b/a = -(-5)/1 = 5.",
+      "classLevel": 8
+    },
+    {
+      "id": 13,
+      "question": "Является ли число 0.5 рациональным?",
+      "correctAnswer": "Да",
+      "explanation": "Любое конечное десятичное число можно представить в виде дроби (1/2).",
+      "classLevel": 8
+    },
+    {
+      "id": 14,
+      "question": "Найдите площадь прямоугольника со сторонами 5 и 8",
+      "correctAnswer": "40",
+      "explanation": "S = a * b = 5 * 8 = 40.",
+      "classLevel": 8
+    },
+... (осталось: 604 строки)
+
+message.txt
+25 кб
+dkozlik — 18.03.2026 22:23
+8
+{
+  "tasks": [
+    {
+      "id": 1,
+      "question": "Вычислите: -5 + 8.",
+      "correctAnswer": "3",
+
+message.txt
+28 кб
+dkozlik — 18.03.2026 22:25
+7
+{
+  "tasks": [
+    {
+      "id": 1,
+      "question": "Сократите дробь: 4/8.",
+      "correctAnswer": "1/2",
+
+message.txt
+26 кб
+dkozlik — 18.03.2026 22:31
+6
+федор достоевский
+ начал звонок, который продлился час. — 19.03.2026 20:56
+dkozlik — 19.03.2026 22:14
+куда
+dkozlik — 19.03.2026 22:22
+пиздааааааааа
+федор достоевский
+ начал звонок, который продлился несколько секунд. — 19.03.2026 22:24
+федор достоевский
+ начал звонок, который продлился несколько секунд. — 19.03.2026 22:24
+dkozlik
+ начал звонок, который продлился минута. — 19.03.2026 22:30
+dkozlik — 19.03.2026 22:30
+ща секу
+федор достоевский [DRO],  — 19.03.2026 22:30
+мне с собакой идти надо
+dkozlik — 19.03.2026 22:30
+долго?
+федор достоевский [DRO],  — 19.03.2026 22:31
+не оч
+мин 15-20
+dkozlik — 19.03.2026 22:31
+ну давай быстрее тогда
+федор достоевский
+ начал звонок, который продлился 29 минут. — 19.03.2026 22:56
+федор достоевский [DRO],  — 19.03.2026 23:04
+Изображение
+dkozlik — 19.03.2026 23:05
+Изображение
+федор достоевский [DRO],  — 19.03.2026 23:22
+Изображение
+dkozlik — Вчера, в 21:22
+?
+Ну?
+﻿
+dkozlik
+dkozlik
+ 
+{
+  "tasks": [
+    {
+      "id": 1,
+      "question": "Упростите выражение: √16",
+      "correctAnswer": "4",
+      "explanation": "Арифметический квадратный корень из 16 равен 4, так как 4² = 16.",
+      "classLevel": 8
+    },
+    {
+      "id": 2,
+      "question": "Решите уравнение: x² = 25",
+      "correctAnswer": "±5",
+      "explanation": "Корни уравнения x² = a (где a > 0) равны ±√a. √25 = 5.",
+      "classLevel": 8
+    },
+    {
+      "id": 3,
+      "question": "Вычислите: 2⁻³",
+      "correctAnswer": "0.125",
+      "explanation": "2⁻³ = 1 / 2³ = 1/8 = 0.125.",
+      "classLevel": 8
+    },
+    {
+      "id": 4,
+      "question": "Найдите значение выражения при x=2: 3x - 5",
+      "correctAnswer": "1",
+      "explanation": "Подставляем x=2: 3*2 - 5 = 6 - 5 = 1.",
+      "classLevel": 8
+    },
+    {
+      "id": 5,
+      "question": "Разложите на множители: x² - 9",
+      "correctAnswer": "(x-3)(x+3)",
+      "explanation": "Формула разности квадратов: a² - b² = (a-b)(a+b).",
+      "classLevel": 8
+    },
+    {
+      "id": 6,
+      "question": "Решите неравенство: 2x > 10",
+      "correctAnswer": "x > 5",
+      "explanation": "Делим обе части на положительное число 2, знак не меняется.",
+      "classLevel": 8
+    },
+    {
+      "id": 7,
+      "question": "Найдите дискриминант уравнения: x² + 4x + 4 = 0",
+      "correctAnswer": "0",
+      "explanation": "D = b² - 4ac = 4² - 4*1*4 = 16 - 16 = 0.",
+      "classLevel": 8
+    },
+    {
+      "id": 8,
+      "question": "Чему равен угол между диагоналями квадрата?",
+      "correctAnswer": "90°",
+      "explanation": "Диагонали квадрата перпендикулярны.",
+      "classLevel": 8
+    },
+    {
+      "id": 9,
+      "question": "Упростите дробь: (2x) / (4x)",
+      "correctAnswer": "0.5",
+      "explanation": "Сокращаем на 2x (при x≠0), получаем 1/2 или 0.5.",
+      "classLevel": 8
+    },
+    {
+      "id": 10,
+      "question": "Вычислите: √(81)",
+      "correctAnswer": "9",
+      "explanation": "9² = 81.",
+      "classLevel": 8
+    },
+    {
+      "id": 11,
+      "question": "Решите уравнение: (x-1)(x+2) = 0",
+      "correctAnswer": "1; -2",
+      "explanation": "Произведение равно нулю, когда один из множителей равен нулю.",
+      "classLevel": 8
+    },
+    {
+      "id": 12,
+      "question": "Найдите сумму корней уравнения: x² - 5x + 6 = 0",
+      "correctAnswer": "5",
+      "explanation": "По теореме Виета сумма корней равна -b/a = -(-5)/1 = 5.",
+      "classLevel": 8
+    },
+    {
+      "id": 13,
+      "question": "Является ли число 0.5 рациональным?",
+      "correctAnswer": "Да",
+      "explanation": "Любое конечное десятичное число можно представить в виде дроби (1/2).",
+      "classLevel": 8
+    },
+    {
+      "id": 14,
+      "question": "Найдите площадь прямоугольника со сторонами 5 и 8",
+      "correctAnswer": "40",
+      "explanation": "S = a * b = 5 * 8 = 40.",
+      "classLevel": 8
+    },
+    {
+      "id": 15,
+      "question": "Упростите: √2 * √8",
+      "correctAnswer": "4",
+      "explanation": "√(2*8) = √16 = 4.",
+      "classLevel": 8
+    },
+    {
+      "id": 16,
+      "question": "Решите неравенство: -3x < 9",
+      "correctAnswer": "x > -3",
+      "explanation": "При делении на отрицательное число знак неравенства меняется.",
+      "classLevel": 8
+    },
+    {
+      "id": 17,
+      "question": "Найдите гипотенузу треугольника с катетами 3 и 4",
+      "correctAnswer": "5",
+      "explanation": "По теореме Пифагора: c = √(3² + 4²) = √25 = 5.",
+      "classLevel": 8
+    },
+    {
+      "id": 18,
+      "question": "Вычислите: 5⁰",
+      "correctAnswer": "1",
+      "explanation": "Любое ненулевое число в степени 0 равно 1.",
+      "classLevel": 8
+    },
+    {
+      "id": 19,
+      "question": "Найдите среднее арифметическое чисел: 2, 4, 6",
+      "correctAnswer": "4",
+      "explanation": "(2+4+6)/3 = 12/3 = 4.",
+      "classLevel": 8
+    },
+    {
+      "id": 20,
+      "question": "Упростите выражение: a³ * a²",
+      "correctAnswer": "a⁵",
+      "explanation": "При умножении степеней с одинаковым основанием показатели складываются.",
+      "classLevel": 8
+    },
+    {
+      "id": 21,
+      "question": "Решите уравнение: 3x + 2 = 11",
+      "correctAnswer": "3",
+      "explanation": "3x = 9, x = 3.",
+      "classLevel": 8
+    },
+    {
+      "id": 22,
+      "question": "Найдите значение выражения: √(0.04)",
+      "correctAnswer": "0.2",
+      "explanation": "0.2 * 0.2 = 0.04.",
+      "classLevel": 8
+    },
+    {
+      "id": 23,
+      "question": "Какой четырехугольник имеет равные диагонали?",
+      "correctAnswer": "Прямоугольник",
+      "explanation": "Свойство прямоугольника (и квадрата как частного случая).",
+      "classLevel": 8
+    },
+    {
+      "id": 24,
+      "question": "Разложите на множители: 2x² - 8",
+      "correctAnswer": "2(x-2)(x+2)",
+      "explanation": "Выносим 2: 2(x²-4), затем формула разности квадратов.",
+      "classLevel": 8
+    },
+    {
+      "id": 25,
+      "question": "Вычислите: (1/2)⁻²",
+      "correctAnswer": "4",
+      "explanation": "(1/2)⁻² = (2/1)² = 2² = 4.",
+      "classLevel": 8
+    },
+    {
+      "id": 26,
+      "question": "Найдите область определения функции y = 1/(x-3)",
+      "correctAnswer": "x ≠ 3",
+      "explanation": "Знаменатель не может быть равен нулю.",
+      "classLevel": 8
+    },
+    {
+      "id": 27,
+      "question": "Решите уравнение: x² - 6x + 9 = 0",
+      "correctAnswer": "3",
+      "explanation": "(x-3)² = 0, единственный корень x=3.",
+      "classLevel": 8
+    },
+    {
+      "id": 28,
+      "question": "Найдите площадь параллелограмма, если основание 10, высота 5",
+      "correctAnswer": "50",
+      "explanation": "S = a * h = 10 * 5 = 50.",
+      "classLevel": 8
+    },
+    {
+      "id": 29,
+      "question": "Упростите: √18",
+      "correctAnswer": "3√2",
+      "explanation": "√(9*2) = √9 * √2 = 3√2.",
+      "classLevel": 8
+    },
+    {
+      "id": 30,
+      "question": "Чему равен модуль числа -7?",
+      "correctAnswer": "7",
+      "explanation": "Модуль — это расстояние до нуля, всегда неотрицателен.",
+      "classLevel": 8
+    },
+    {
+      "id": 31,
+      "question": "Найдите произведение корней уравнения: x² - 7x + 10 = 0",
+      "correctAnswer": "10",
+      "explanation": "По теореме Виета произведение равно c/a = 10/1 = 10.",
+      "classLevel": 8
+    },
+    {
+      "id": 32,
+      "question": "Вычислите: 3² + 4²",
+      "correctAnswer": "25",
+      "explanation": "9 + 16 = 25.",
+      "classLevel": 8
+    },
+    {
+      "id": 33,
+      "question": "Решите неравенство: x + 4 ≤ 1",
+      "correctAnswer": "x ≤ -3",
+      "explanation": "x ≤ 1 - 4.",
+      "classLevel": 8
+    },
+    {
+      "id": 34,
+      "question": "Найдите угол ромба, если один из углов равен 60°",
+      "correctAnswer": "120°",
+      "explanation": "Сумма соседних углов параллелограмма (ромба) равна 180°.",
+      "classLevel": 8
+    },
+    {
+      "id": 35,
+      "question": "Упростите дробь: (x² - 1) / (x - 1)",
+      "correctAnswer": "x + 1",
+      "explanation": "Числитель раскладывается как (x-1)(x+1), сокращаем на (x-1).",
+      "classLevel": 8
+    },
+    {
+      "id": 36,
+      "question": "Вычислите: √(144)",
+      "correctAnswer": "12",
+      "explanation": "12² = 144.",
+      "classLevel": 8
+    },
+    {
+      "id": 37,
+      "question": "Найдите координаты середины отрезка с концами (0, 0) и (4, 6)",
+      "correctAnswer": "(2, 3)",
+      "explanation": "Среднее арифметическое координат: ((0+4)/2, (0+6)/2).",
+      "classLevel": 8
+    },
+    {
+      "id": 38,
+      "question": "Решите уравнение: 5x = 0",
+      "correctAnswer": "0",
+      "explanation": "Единственный корень линейного уравнения.",
+      "classLevel": 8
+    },
+    {
+      "id": 39,
+      "question": "Найдите значение выражения: 2⁴",
+      "correctAnswer": "16",
+      "explanation": "2*2*2*2 = 16.",
+      "classLevel": 8
+    },
+    {
+      "id": 40,
+      "question": "Является ли число √2 рациональным?",
+      "correctAnswer": "Нет",
+      "explanation": "√2 — иррациональное число, его нельзя представить в виде дроби.",
+      "classLevel": 8
+    },
+    {
+      "id": 41,
+      "question": "Найдите площадь трапеции с основаниями 3 и 7, высотой 4",
+      "correctAnswer": "20",
+      "explanation": "S = (a+b)/2 * h = (3+7)/2 * 4 = 5 * 4 = 20.",
+      "classLevel": 8
+    },
+    {
+      "id": 42,
+      "question": "Упростите: (a⁵) / (a²)",
+      "correctAnswer": "a³",
+      "explanation": "При делении степеней показатели вычитаются.",
+      "classLevel": 8
+    },
+    {
+      "id": 43,
+      "question": "Решите уравнение: |x| = 3",
+      "correctAnswer": "±3",
+      "explanation": "Расстояние от нуля равно 3 для чисел 3 и -3.",
+      "classLevel": 8
+    },
+    {
+      "id": 44,
+      "question": "Найдите периметр квадрата со стороной 6",
+      "correctAnswer": "24",
+      "explanation": "P = 4a = 4 * 6 = 24.",
+      "classLevel": 8
+    },
+    {
+      "id": 45,
+      "question": "Вычислите: √(25) + √(9)",
+      "correctAnswer": "8",
+      "explanation": "5 + 3 = 8.",
+      "classLevel": 8
+    },
+    {
+      "id": 46,
+      "question": "Найдите дискриминант уравнения: 2x² + 3x + 1 = 0",
+      "correctAnswer": "1",
+      "explanation": "D = 3² - 4*2*1 = 9 - 8 = 1.",
+      "classLevel": 8
+    },
+    {
+      "id": 47,
+      "question": "Решите неравенство: 4 - x > 0",
+      "correctAnswer": "x < 4",
+      "explanation": "-x > -4, умножаем на -1, знак меняется: x < 4.",
+      "classLevel": 8
+    },
+    {
+      "id": 48,
+      "question": "Найдите угол правильного шестиугольника",
+      "correctAnswer": "120°",
+      "explanation": "Сумма углов (6-2)*180 = 720. Один угол 720/6 = 120.",
+      "classLevel": 8
+    },
+    {
+      "id": 49,
+      "question": "Упростите: 3√5 - √5",
+      "correctAnswer": "2√5",
+      "explanation": "Выносим общий множитель: (3-1)√5.",
+      "classLevel": 8
+    },
+    {
+      "id": 50,
+      "question": "Чему равен синус угла 30°?",
+      "correctAnswer": "0.5",
+      "explanation": "Табличное значение.",
+      "classLevel": 8
+    },
+    {
+      "id": 51,
+      "question": "Найдите объем куба с ребром 3",
+      "correctAnswer": "27",
+      "explanation": "V = a³ = 3³ = 27.",
+      "classLevel": 8
+    },
+    {
+      "id": 52,
+      "question": "Решите уравнение: x² = 0",
+      "correctAnswer": "0",
+      "explanation": "Единственный корень.",
+      "classLevel": 8
+    },
+    {
+      "id": 53,
+      "question": "Вычислите: (-2)³",
+      "correctAnswer": "-8",
+      "explanation": "Отрицательное число в нечетной степени остается отрицательным.",
+      "classLevel": 8
+    },
+    {
+      "id": 54,
+      "question": "Найдите площадь круга радиусом 1",
+      "correctAnswer": "π",
+      "explanation": "S = πR² = π * 1² = π.",
+      "classLevel": 8
+    },
+    {
+      "id": 55,
+      "question": "Упростите выражение: (2a)²",
+      "correctAnswer": "4a²",
+      "explanation": "Возводим в квадрат каждый множитель.",
+      "classLevel": 8
+    },
+    {
+      "id": 56,
+      "question": "Решите систему: x+y=5, x-y=1",
+      "correctAnswer": "x=3, y=2",
+      "explanation": "Складываем уравнения: 2x=6 -> x=3. Подставляем: 3+y=5 -> y=2.",
+      "classLevel": 8
+    },
+    {
+      "id": 57,
+      "question": "Найдите длину диагонали прямоугольника 3x4",
+      "correctAnswer": "5",
+      "explanation": "По теореме Пифагора: √(3²+4²) = 5.",
+      "classLevel": 8
+    },
+    {
+      "id": 58,
+      "question": "Вычислите: √(0.09)",
+      "correctAnswer": "0.3",
+      "explanation": "0.3 * 0.3 = 0.09.",
+      "classLevel": 8
+    },
+    {
+      "id": 59,
+      "question": "Найдите значение выражения при a=3: a² - 1",
+      "correctAnswer": "8",
+      "explanation": "3² - 1 = 9 - 1 = 8.",
+      "classLevel": 8
+    },
+    {
+      "id": 60,
+      "question": "Решите неравенство: 2x - 4 ≥ 0",
+      "correctAnswer": "x ≥ 2",
+      "explanation": "2x ≥ 4, x ≥ 2.",
+      "classLevel": 8
+    },
+    {
+      "id": 61,
+      "question": "Найдите косинус угла 60°",
+      "correctAnswer": "0.5",
+      "explanation": "Табличное значение.",
+      "classLevel": 8
+    },
+    {
+      "id": 62,
+      "question": "Упростите: √(50)",
+      "correctAnswer": "5√2",
+      "explanation": "√(25*2) = 5√2.",
+      "classLevel": 8
+    },
+    {
+      "id": 63,
+      "question": "Найдите площадь ромба, если диагонали 6 и 8",
+      "correctAnswer": "24",
+      "explanation": "S = (d1 * d2) / 2 = (6 * 8) / 2 = 24.",
+      "classLevel": 8
+    },
+    {
+      "id": 64,
+      "question": "Решите уравнение: 4x² - 1 = 0",
+      "correctAnswer": "±0.5",
+      "explanation": "4x² = 1, x² = 1/4, x = ±1/2.",
+      "classLevel": 8
+    },
+    {
+      "id": 65,
+      "question": "Вычислите: 10⁻¹",
+      "correctAnswer": "0.1",
+      "explanation": "1 / 10¹ = 0.1.",
+      "classLevel": 8
+    },
+    {
+      "id": 66,
+      "question": "Найдите медиану ряда: 1, 3, 5, 7, 9",
+      "correctAnswer": "5",
+      "explanation": "Среднее число в упорядоченном ряду.",
+      "classLevel": 8
+    },
+    {
+      "id": 67,
+      "question": "Упростите дробь: 6x / 9",
+      "correctAnswer": "2x/3",
+      "explanation": "Сокращаем на 3.",
+      "classLevel": 8
+    },
+    {
+      "id": 68,
+      "question": "Найдите угол между биссектрисами смежных углов параллелограмма",
+      "correctAnswer": "90°",
+      "explanation": "Биссектрисы смежных углов параллелограмма перпендикулярны.",
+      "classLevel": 8
+    },
+    {
+      "id": 69,
+      "question": "Решите уравнение: x(x-5) = 0",
+      "correctAnswer": "0; 5",
+      "explanation": "Произведение равно нулю.",
+      "classLevel": 8
+    },
+    {
+      "id": 70,
+      "question": "Вычислите: √(121)",
+      "correctAnswer": "11",
+      "explanation": "11² = 121.",
+      "classLevel": 8
+    },
+    {
+      "id": 71,
+      "question": "Найдите значение выражения: (-3)²",
+      "correctAnswer": "9",
+      "explanation": "Отрицательное число в четной степени становится положительным.",
+      "classLevel": 8
+    },
+    {
+      "id": 72,
+      "question": "Решите неравенство: -2x > 6",
+      "correctAnswer": "x < -3",
+      "explanation": "Делим на -2, знак меняется.",
+      "classLevel": 8
+    },
+    {
+      "id": 73,
+      "question": "Найдите периметр прямоугольника со сторонами 3 и 7",
+      "correctAnswer": "20",
+      "explanation": "P = 2(a+b) = 2(3+7) = 20.",
+      "classLevel": 8
+    },
+    {
+      "id": 74,
+      "question": "Упростите: (x³)²",
+      "correctAnswer": "x⁶",
+      "explanation": "При возведении степени в степень показатели перемножаются.",
+      "classLevel": 8
+    },
+    {
+      "id": 75,
+      "question": "Найдите тангенс угла 45°",
+      "correctAnswer": "1",
+      "explanation": "Табличное значение.",
+      "classLevel": 8
+    },
+    {
+      "id": 76,
+      "question": "Решите уравнение: √x = 4",
+      "correctAnswer": "16",
+      "explanation": "Возводим в квадрат: x = 16.",
+      "classLevel": 8
+    },
+    {
+      "id": 77,
+      "question": "Вычислите: 2 * 3²",
+      "correctAnswer": "18",
+      "explanation": "Сначала степень: 3²=9, потом умножение: 2*9=18.",
+      "classLevel": 8
+    },
+    {
+      "id": 78,
+      "question": "Найдите площадь треугольника с основанием 10 и высотой 6",
+      "correctAnswer": "30",
+      "explanation": "S = 1/2 * a * h = 0.5 * 10 * 6 = 30.",
+      "classLevel": 8
+    },
+    {
+      "id": 79,
+      "question": "Упростите: √(3) * √(3)",
+      "correctAnswer": "3",
+      "explanation": "Корень из произведения равен произведению корней, √9=3.",
+      "classLevel": 8
+    },
+    {
+      "id": 80,
+      "question": "Найдите модуль числа 0",
+      "correctAnswer": "0",
+      "explanation": "|0| = 0.",
+      "classLevel": 8
+    },
+    {
+      "id": 81,
+      "question": "Решите уравнение: 2x + 3 = 2x + 5",
+      "correctAnswer": "нет решений",
+      "explanation": "3 ≠ 5, противоречие.",
+      "classLevel": 8
+    },
+    {
+      "id": 82,
+      "question": "Вычислите: 1/2 + 1/3",
+      "correctAnswer": "5/6",
+      "explanation": "Общий знаменатель 6: 3/6 + 2/6 = 5/6.",
+      "classLevel": 8
+    },
+    {
+      "id": 83,
+      "question": "Найдите объем прямоугольного параллелепипеда 2x3x4",
+      "correctAnswer": "24",
+      "explanation": "V = abc = 2*3*4 = 24.",
+      "classLevel": 8
+    },
+    {
+      "id": 84,
+      "question": "Упростите выражение: a⁰",
+      "correctAnswer": "1",
+      "explanation": "При условии a ≠ 0.",
+      "classLevel": 8
+    },
+    {
+      "id": 85,
+      "question": "Решите неравенство: x² ≥ 0",
+      "correctAnswer": "любое число",
+      "explanation": "Квадрат любого действительного числа неотрицателен.",
+      "classLevel": 8
+    },
+    {
+      "id": 86,
+      "question": "Найдите синус угла 90°",
+      "correctAnswer": "1",
+      "explanation": "Табличное значение.",
+      "classLevel": 8
+    },
+    {
+      "id": 87,
+      "question": "Вычислите: √(169)",
+      "correctAnswer": "13",
+      "explanation": "13² = 169.",
+      "classLevel": 8
+    },
+    {
+      "id": 88,
+      "question": "Найдите среднее геометрическое чисел 4 и 9",
+      "correctAnswer": "6",
+      "explanation": "√(4*9) = √36 = 6.",
+      "classLevel": 8
+    },
+    {
+      "id": 89,
+      "question": "Упростите: (x+2)²",
+      "correctAnswer": "x²+4x+4",
+      "explanation": "Формула квадрата суммы.",
+      "classLevel": 8
+    },
+    {
+      "id": 90,
+      "question": "Решите уравнение: 5 - x = 2",
+      "correctAnswer": "3",
+      "explanation": "x = 5 - 2 = 3.",
+      "classLevel": 8
+    },
+    {
+      "id": 91,
+      "question": "Найдите площадь квадрата с диагональю 2√2",
+      "correctAnswer": "4",
+      "explanation": "S = d²/2 = (2√2)² / 2 = 8/2 = 4.",
+      "classLevel": 8
+    },
+    {
+      "id": 92,
+      "question": "Вычислите: 2⁵",
+      "correctAnswer": "32",
+      "explanation": "2*2*2*2*2 = 32.",
+      "classLevel": 8
+    },
+    {
+      "id": 93,
+      "question": "Найдите значение выражения: |-5| + |5|",
+      "correctAnswer": "10",
+      "explanation": "5 + 5 = 10.",
+      "classLevel": 8
+    },
+    {
+      "id": 94,
+      "question": "Решите неравенство: 3x ≤ 9",
+      "correctAnswer": "x ≤ 3",
+      "explanation": "Делим на 3.",
+      "classLevel": 8
+    },
+    {
+      "id": 95,
+      "question": "Найдите косинус угла 0°",
+      "correctAnswer": "1",
+      "explanation": "Табличное значение.",
+      "classLevel": 8
+    },
+    {
+      "id": 96,
+      "question": "Упростите: √(72)",
+      "correctAnswer": "6√2",
+      "explanation": "√(36*2) = 6√2.",
+      "classLevel": 8
+    },
+    {
+      "id": 97,
+      "question": "Найдите периметр равностороннего треугольника со стороной 5",
+      "correctAnswer": "15",
+      "explanation": "P = 3a = 3*5 = 15.",
+      "classLevel": 8
+    },
+    {
+      "id": 98,
+      "question": "Решите уравнение: x² + 1 = 0",
+      "correctAnswer": "нет решений",
+      "explanation": "x² = -1, квадрат действительного числа не может быть отрицательным.",
+      "classLevel": 8
+    },
+    {
+      "id": 99,
+      "question": "Вычислите: 0.5 * 0.5",
+      "correctAnswer": "0.25",
+      "explanation": "1/2 * 1/2 = 1/4.",
+      "classLevel": 8
+    },
+    {
+      "id": 100,
+      "question": "Найдите сумму углов выпуклого четырехугольника",
+      "correctAnswer": "360°",
+      "explanation": "Сумма углов любого выпуклого четырехугольника равна 360 градусов.",
+      "classLevel": 8
+    }
+  ]
+}
